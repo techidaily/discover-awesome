@@ -1,7 +1,7 @@
 ---
 title: "How to Bypass DRM Protection in Topaz Publications: Unlocking Your E-Books and eBooks"
-date: 2024-08-19 19:30:19
-updated: 2024-08-21 10:15:42
+date: 2024-08-20T09:38:14.358Z
+updated: 2024-08-21T09:38:14.358Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/843c206a00e28cb365bf9ba5dd05332331c8b283e7e323acfc8d381ef1640599.jpg
@@ -37,6 +37,9 @@ Tips
 * [Best tools to remove DRM from Kindle (TOPAZ/AZW) with high quality](https://tools.techidaily.com/epubor/products/)
 * [Calibre helps you to convert Kindle books to EPUB free](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **How to use Topza DRM Removal to remove drm from topaz/azw1/tpz**
 
 **1\. Authorize** your copy of Kindle for PC and "Sync and check for new items".
@@ -52,16 +55,25 @@ Browse for input directory, default as "..\\My Documents\\My Kindle Content\\".
 
 ![Kindle TopAZ DRM Removal](https://www.epubor.com/images/kindledrmremoval.jpg "Kindle DRM Removal")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 Epubor Ultimate can help you remove DRM from AZW,AZW1, PRC, Mobi, TopAZ(.tpz) books with ease, which requires you to set the "**Optional Setting**".
 
 ![Kindle TPZ DRM Removal](https://www.epubor.com/images/kindledrmremoval-setting.jpg "Kindle DRM Removal")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 **Removing DRM from Topaz files**, Kindle tpz DRM Removal requires your **kindle.info** file which can be found in something like:  
 \\...\\Amazon\\Kindle For PC\\  
 where ... varies by platform but is "Local Settings\\Application Data" on XP.
 
 ![Kindle.info](https://www.epubor.com/images/kindle.info.jpg "Kindle DRM Removal")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After removing topaz/azw1/tpz DRM, you can use Calibre to convert books files, [Download the best ebook converter Calibre](https://tools.techidaily.com/epubor/products/).
 
 #### **Topaz: I used the tools on a Kindle file, and got back three files instead of one. Which one is the de-drmed ebook?**
@@ -84,6 +96,9 @@ Keywords: Topaz DRM Removal, TPZ DRM Removal,Kindle DRM Removal, AZW1 DRM Remova
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Writing Compelling Book Critiques
-date: 2024-08-18 10:40:36
-updated: 2024-08-21 12:52:28
+date: 2024-08-20T09:38:14.338Z
+updated: 2024-08-21T09:38:14.338Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409e0b799bdcb8f9f006f59b01.jpg
@@ -53,12 +53,18 @@ Here I've summed up **10 steps about how to write a book review**, and in my opi
 
 **Step 10.** Now you have almost finished your book review, time to look back and test your points. Have you covered all the important elements of the book? Who are your target reader? Are you writing this review to serve someone? Is your review outstanding among all the reviews of this book? If not, then you need to check the previous 9 steps and enhance your book review; if yes, your book review is finished!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Now let's take a NY Times book review as example
 
 I randomly pick a book review from the New York Times, it's a review on the book _The Insurgents: David Petraeus and the Plot to Change the American Way of War._
 
 ![book information](http://www.epubor.com/images/book-information.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 From the first glance on this book's information, we can know it's a book about war in Iraq, and it's written by Fred Kaplan. This book ranks #151 in all the Amazon Best-Sellers, and its book review appears on many authority sites. Upon the information above, we can figure out some clues about this book. Obviously, if you are writing for a book review blog, and its target readers are teenage women, then you definitely can't choose this book.
 
 The American occupation of Iraq in its early years was a swamp of incompetence and self-delusion. The tales of hubris and reality-denial have already passed into folklore.......and many of the most egregious foul-ups of the era stemmed from abstract theories mindlessly applied to the real world.
@@ -125,6 +131,9 @@ Pretty simple. Click the buttons below to help us spread the world.
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!

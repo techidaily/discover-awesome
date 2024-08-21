@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Enjoying Library Ebooks via OverDrive on the Kindle Paperwhite Device
-date: 2024-08-19 13:10:35
-updated: 2024-08-21 10:30:25
+date: 2024-08-20T09:38:14.235Z
+updated: 2024-08-21T09:38:14.235Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd3a27b7e0b7d3fec1332bd02.png
@@ -44,6 +44,9 @@ Download Adobe Digital Edition 4.5 for [_Macintosh (23.2MB)_](http://download.ad
 
 Download Adobe Digital Edition 4.5 for [_Windows (8.13MB)_](http://download.adobe.com/pub/adobe/digitaleditions/ADE%5F4.5%5FInstaller.exe)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Create an Adobe ID and Authorize Computer
 
 If this is your first time use ADE, you need to create an Adobe ID and authorize your computer with the Adobe ID. Adobe use this ID to identify user, and with this ID, the book will be automatically downloaded to other devices such as tablets and smartphones which belong to you.
@@ -52,12 +55,23 @@ If this is your first time use ADE, you need to create an Adobe ID and authorize
 
 **Note:** You can authorize your computer without Adobe ID. However, this means you can only read the ebook on your computer. So in order to read it on Kindle paperwhite, I would recommend you authorize with Adobe ID.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### 3\. Open acsm file and get the ePub or PDF eBook.
 
 Go to [Overdrive.com](https://www.overdrive.com/) and select the title you want to read, choose the epub or pdf format to download. Normally, you will get the acsm file when the book is drm protected.
 
  If you have set ADE as the default program to open acsm extension file when installing ade, then you can open the acsm file with ade directly. If not, right click the acsm file and select open with >> Adobe Digital Editions. Or you can open ADE first, click file >> add to library. And select the acsm file to open it in ADE. Then ADE will begin to download the actual epub or pdf book.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Convert ePub or PDF to Kindle format with Epubor Ultimate
 
 The fouth step is the essential part of this process, you need to download a powerful tool -- Epubor Ultimate Converter to help you remove DRM and convert ebook format.
@@ -70,8 +84,14 @@ When open Ultimate converter, it will **automatically detect the ADE's eBooks**.
 
 ![ultimate-converter](http://www.epubor.com/images/uppic/ultimate-converter-screenshot.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 **Note:** The Epubor Ultimate will save the original Overdrive ebook on you ADE folder and create a new kindle format ebook, click "folder" at the bottom right corner to get the new book.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Transfer Kindle book to Kindle paperwhite via USB
 
 Connect Kindle paperwhite to your computer with a USB cable, it will appear as a removable storage device. Choose the new kindle books and copy them to your kindle paperwhite. Or you can try to [send the converted books to Kindle without USB connection](https://tools.techidaily.com/epubor/products/). Now you can read the Overdrive eBooks on Paperwhite freely and easily. 
@@ -86,6 +106,9 @@ Suggested Reading
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
