@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: PNY Elite-X Type-C SSD Evaluation - Ideal for Seamless Mobile Data Transfer"
-date: 2024-08-26 11:37:46
-updated: 2024-08-29 11:54:30
+date: 2024-08-30T10:54:33.910Z
+updated: 2024-08-31T10:54:33.910Z
 tags:
   - product-reviews
 categories:
@@ -72,10 +72,16 @@ Hannah Stryker / How-To Geek
 
  I also wish PNY would have incorporated a little more defense for the retractable connector. To insert the flash drive into a smartphone, tablet, or another device, you simply push on the back end of the drive housing (where the lanyard loop is located) to expose the connector. When you retract the USB-C prong though, both the top, left, and right sides of the connector are exposed, leaving the connector open to dirt and moisture.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Features: Capable and Compatible
 
 ![The PNY Elite-X Type C Flash Drive plugged into a Samsung phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-plugged-into-a-samsung-phone-2jpg_53404868342_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Even though most phones, tablets, and computers are switching over to [USB-C](https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/), there are still a number of old and new devices that support both USB-C and USB-A connections. Unfortunately, you won’t find a USB-A adapter packaged with the Elite-X, which means you’ll be restricted to USB-C ports only. This means that you may want to invest in a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) if you plan on connecting the Elite-X to a smart TV, soundbar, or A/V receiver that doesn't have USB-C ports.
@@ -84,10 +90,16 @@ Hannah Stryker / How-To Geek
 
  In terms of compatibility, you’ll be able to use the Elite-X with PCs running Windows 7 and up, Apple hardware running macOS 8.6 or later, and some USB-C-equipped smartphones and tablets.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Using the PNY Elite-X Type C Flash Drive: A Great Experience
 
 ![The PNY Elite-X Type C Flash Drive plugged into a laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-plugged-into-a-laptopjpg_53405976338_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I was able to test the Elite-X Type C Flash Drive using a late 2020 MacBook Pro. Seeing as the drive is optimized for USB 3.2 Gen 1 transfer speeds (up to 5Gbps), I was expecting some pretty zippy performance, but the true results were superlative.
@@ -98,12 +110,18 @@ Hannah Stryker / How-To Geek
 
  Available in 64GB, 128GB (my test model), or 256GB sizes, I was able to get my entire photo library and several layered GarageBand tracks onto the drive quickly. While it may take a bit longer for larger files, like 4K HDR content, I can totally see the Elite-X completing a 20GB upload in around 10 to 15 minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the PNY Elite-X Type C Flash Drive?
 
  If you’re sick of external hard drives and cloud storage platforms, the [PNY Elite-X Type C Flash Drive](https://www.pny.com/en-eu/PNY-Elite-X-Type-C-USB-3-2-Gen-1-Flash-Drive?sku=P-FDI128ELTXC-GE) is an excellent local storage alternative for most phones, tablets, and computers. While there are a few design elements that could use some tweaking, this is one of the best non-network storage mediums for most USB-C hardware.
 
 ![The PNY Elite-X Type C Flash Drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pny-elite-x-type-c-flash-drive-product-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 #####  PNY Elite-X Type C Flash Drive
 
 7/ 10 
@@ -142,3 +160,50 @@ With its blistering-fast transfer speeds and ergonomic design, the PNY Elite-X T
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-produce-high-impact-low-cost-youtube-ads-in-2024/"><u>[New] How to Produce High-Impact, Low-Cost YouTube Ads, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-your-youtube-presence-key-tips-for-popularity/"><u>[New] In 2024, Boosting Your YouTube Presence  Key Tips for Popularity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-strategies-to-mute-facebook-ads-on-videos-for-2024/"><u>[New] Strategies to Mute Facebook Ads on Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-virtual-journeys-ultimate-listing-of-10-free-mmorpg-games-for-2024/"><u>[New] Virtual Journey's  Ultimate Listing of 10 Free MMORPG Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-livestream-leaders-clash/"><u>[Updated] 2024 Approved  LiveStream Leaders Clash</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>[Updated] 2024 Approved  Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quietude-kingdoms-ultimate-zen-pc-games/"><u>[Updated] 2024 Approved  Quietude Kingdoms  Ultimate Zen PC Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-cinematography-made-easy-with-ois-technology/"><u>[Updated] High Quality Cinematography Made Easy With OIS Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-supercharge-your-tweet-views-for-flawless-hd/"><u>[Updated] In 2024, Supercharge Your Tweet Views for Flawless HD</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-look-at-whatsapps-voice-communication-design/"><u>[Updated] Inside Look at WhatsApp's Voice Communication Design</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-scanning-shorthand-efficient-profile-hunting-on-fb-for-2024/"><u>[Updated] Social Scanning Shorthand  Efficient Profile Hunting on FB for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-wie-wandelt-man-ein-buch-von-adobe-content-server-zu-einem-epub-format-um/"><u>1. 'Wie Wandelt Man Ein Buch Von Adobe Content Server Zu Einem EPUB-Format Um?'</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-discover-the-easy-guide-to-accessing-acsm-files-on-your-nook-device/"><u>1. Discover the Easy Guide to Accessing ACSM Files on Your Nook Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-how-to-transfer-an-ebook-in-epub-format-to-your-kindle-device/"><u>1. How to Transfer an eBook in EPUB Format to Your Kindle Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-clash-a-new-look-at-action-cams-best-version/"><u>2024 Approved  GoPro & Yi Clash  A New Look at Action Cams' Best Version</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-techies-guide-best-non-gaming-screen-capture-tech/"><u>2024 Approved  Techie's Guide  Best Non-Gaming Screen Capture Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>2024 Approved  Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/a-comprehensive-guide-accessing-and-reading-amazon-kindle-ebooks-on-your-ipad/"><u>A Comprehensive Guide: Accessing and Reading Amazon Kindle Ebooks on Your iPad</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/access-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps-for-2024/"><u>Access Short Videos Anywhere  The Top 6 Free & Online YouTube Short Download Apps for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/beginners-guide-to-audiobooks-top-5-essentials-for-a-successful-launch/"><u>Beginner's Guide to Audiobooks: Top 5 Essentials for a Successful Launch</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-5-free-e-reader-apps-for-mac-compare-and-download/"><u>Best 5 Free E-Reader Apps for Mac: Compare and Download</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/bouncing-back-stronger-how-failure-fuels-growth-and-achievement/"><u>Bouncing Back Stronger: How Failure Fuels Growth and Achievement</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comprehensive-tutorial-for-enjoying-library-ebooks-via-overdrive-on-the-kindle-paperwhite-device/"><u>Comprehensive Tutorial for Enjoying Library Ebooks via OverDrive on the Kindle Paperwhite Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-top-5-no-cost-reader-programs-for-your-mac-computer/"><u>Discover the Top 5 No-Cost Reader Programs for Your Mac Computer</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-these-5-superior-browsers-as-perfect-substitutes-for-your-kindle-fire-device/"><u>Discover These 5 Superior Browsers as Perfect Substitutes for Your Kindle Fire Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-now-premium-zero-cost-spanish-english-word-converter-for-kindle-devices/"><u>Download Now: Premium, Zero Cost Spanish-English Word Converter for Kindle Devices</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-the-ultimate-no-cost-drm-ebook-liberator-software-for-mac-users/"><u>Download the Ultimate No-Cost DRM Ebook Liberator Software for Mac Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/drm-free-conversion-how-to-unlock-your-ebooks-in-various-formats/"><u>DRM-Free Conversion: How to Unlock Your Ebooks in Various Formats</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/easy-steps-to-transform-your-ibook-into-a-user-friendly-pdf-format/"><u>Easy Steps to Transform Your iBook Into a User-Friendly PDF Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effective-techniques-for-drm-removal-from-ebook-pages/"><u>Effective Techniques for DRM Removal From eBook Pages</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effortless-digital-library-unshackling-liberate-your-ebooks-from-drm-restrictions/"><u>Effortless Digital Library Unshackling - Liberate Your eBooks From DRM Restrictions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-power-of-srt-in-broadcasting/"><u>In 2024, Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/share-your-reading-insights-transferring-highlights-from-kindle-books-to-pdf-format/"><u>Share Your Reading Insights: Transferring Highlights From Kindle Books to PDF Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/sharing-the-joy-of-reading-a-guide-to-passing-on-kindle-titles/"><u>Sharing the Joy of Reading: A Guide to Passing on Kindle Titles</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/showdown-of-storytelling-platforms-google-play-books-vs-amazon-audible-which-wins/"><u>Showdown of Storytelling Platforms: Google Play Books Vs. Amazon Audible - Which Wins?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-transferring-your-amazon-kindle-bookmarks-and-annotations-into-evernote/"><u>Step-by-Step Guide to Transferring Your Amazon Kindle Bookmarks & Annotations Into Evernote</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-bypassing-drm-protection-on-amazons-kindle-formats/"><u>Step-by-Step Guide: Bypassing DRM Protection on Amazon's Kindle Formats</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-7-locations-for-finding-and-downloading-free-kindle-wallpapers/"><u>Top 7 Locations for Finding & Downloading Free Kindle Wallpapers</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-free-tools-for-easy-pdf-to-epub-conversion-improve-your-digital-reading-experience/"><u>Top Free Tools for Easy PDF to ePUB Conversion – Improve Your Digital Reading Experience!</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/transitioning-from-kobo-a-complete-guide-to-access-your-e-books-on-amazon-kindle/"><u>Transitioning From Kobo: A Complete Guide to Access Your E-Books on Amazon Kindle</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unlock-your-kindle-books-step-by-step-tutorial-on-eliminating-drm-from-azwazw3azw4-formats/"><u>Unlock Your Kindle Books: Step-by-Step Tutorial on Eliminating DRM From AZW/AZW3/AZW4 Formats</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unlocking-content-simplified-with-ineptpdfs-python-script-for-drm-removal/"><u>Unlocking Content Simplified with IneptPDF's Python Script for DRM Removal</u></a></li>
+</ul></div>

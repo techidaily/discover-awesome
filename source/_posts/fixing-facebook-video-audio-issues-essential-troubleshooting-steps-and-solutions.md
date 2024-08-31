@@ -1,7 +1,7 @@
 ---
 title: "Fixing Facebook Video Audio Issues: Essential Troubleshooting Steps & Solutions"
-date: 2024-08-25 13:11:48
-updated: 2024-08-27 12:55:23
+date: 2024-08-30T10:54:43.590Z
+updated: 2024-08-31T10:54:43.590Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/708fc5b280be299f8cc68c0fa9d05c55bbb14c61977d4c57361c8d572004d082.jpg
@@ -48,6 +48,9 @@ Sometimes you may suddenly lost sound on Facebook video playback, frustrating. U
 
 ## How to Fix Various No Sound on FB Videos Problems
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. There is no sound on Facebook videos on iPhone iPad
 
 As the user mentioned above, you may all of sudden run into Facebook video sound not working error on iPhone iPad. The reason can be the Facebook app problem, or the changed iPhone iPad settings after you upgrade to new iOS 10.12 for example. When your Facebook videos have no sound on iPhone XS/XS Max/XR/X/8/7/SE/6S, iPad Air 2/mini 4 etc, try the fixes below:
@@ -62,12 +65,18 @@ As the user mentioned above, you may all of sudden run into Facebook video sound
 6. Delete and reinstall the Facebook app.
 7. If all these failed, try to fall back on the [best Facebook video converter](https://tools.techidaily.com/macxdvd/products/) to download and convert FB videos with sound.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Facebook videos no sound in Chrome/Firefox/IE etc
 
 If you can't get sound on Facebook video but can play sound in local desktop videos, the browser software may be the cause to the no sound on Facebook videos error. If this happens to you, fix the Facebook video sound not working in Chrome, Firefox, IE, Safari as below: 
 
 ![No sound on Facebok videos in any browser](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/fb-no-sound-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Check the browser's volume level: click the speaker icon in the notification area.
 2. Disable browser extensions, especially those relating to audio/video. And clear cache, cookies and history.
 3. Ensure the browser is in its latest version. Remove and reinstall the browser or switch to a different browser.
@@ -105,6 +114,9 @@ Like the problem on iPhone iPad, you may get errors with Facebook videos on Andr
 
 ![No sound on FB videos on Android](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/fb-no-sound-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 1. First of all, check if the silent/vibrate switch is turned on.
 2. Hold on the power button to restart the Android/Samsung device.
 3. Insert your headphones into the headphone jack then take them out may solve Facebook videos no sound.
@@ -112,12 +124,18 @@ Like the problem on iPhone iPad, you may get errors with Facebook videos on Andr
 
 Also see: [how to fix YouTube no sound problem](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 5\. How to fix no sound on Facebook videos calls
 
 The final error is the sound problem during a Facebook video chat. Some users are complaining that they can't get sound on Facebook videos when they talk to somebody. "I can see the screen, but there is no sound on the speaker of my laptop." Here are some suggestions you my try:
 
 ![Facebook video sound problems troubleshooting](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/fb-no-sound-5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 1. Unplug your headphones and put it back.
 2. Update to the latest sound drive.
 3. Check if your headset or speaker devices are muted.
@@ -143,10 +161,16 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 [How to Convert and Upload DVD to Facebook](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Ad-free Facebook Video Downloader for iPhone
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
@@ -159,12 +183,19 @@ Related Articles
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -204,3 +235,44 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-blueprint-making-inspiring-lifestyle-broadcasts-for-2024/"><u>[New] Blueprint  Making Inspiring Lifestyle Broadcasts for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capture-your-sounds-on-pc-with-x-recorder/"><u>[New] Capture Your Sounds on PC with X-Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature-for-2024/"><u>[New] Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-cutting-and-splicing-360-degree-footage-in-adobe-premiere/"><u>[New] Expert Tips for Cutting and Splicing 360-Degree Footage in Adobe Premiere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-keep-up-to-date-with-youtube-community-guidelines/"><u>[New] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-wie-wandelt-man-ein-buch-von-adobe-content-server-zu-einem-epub-format-um/"><u>1. 'Wie Wandelt Man Ein Buch Von Adobe Content Server Zu Einem EPUB-Format Um?'</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-discover-the-easy-guide-to-accessing-acsm-files-on-your-nook-device/"><u>1. Discover the Easy Guide to Accessing ACSM Files on Your Nook Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-how-to-transfer-an-ebook-in-epub-format-to-your-kindle-device/"><u>1. How to Transfer an eBook in EPUB Format to Your Kindle Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-photography-composition-rules-for-iphone/"><u>10 Photography Composition Rules for iPhone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/a-comprehensive-guide-accessing-and-reading-amazon-kindle-ebooks-on-your-ipad/"><u>A Comprehensive Guide: Accessing and Reading Amazon Kindle Ebooks on Your iPad</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/beginners-guide-to-audiobooks-top-5-essentials-for-a-successful-launch/"><u>Beginner's Guide to Audiobooks: Top 5 Essentials for a Successful Launch</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-5-free-e-reader-apps-for-mac-compare-and-download/"><u>Best 5 Free E-Reader Apps for Mac: Compare and Download</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/bouncing-back-stronger-how-failure-fuels-growth-and-achievement/"><u>Bouncing Back Stronger: How Failure Fuels Growth and Achievement</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comprehensive-tutorial-for-enjoying-library-ebooks-via-overdrive-on-the-kindle-paperwhite-device/"><u>Comprehensive Tutorial for Enjoying Library Ebooks via OverDrive on the Kindle Paperwhite Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-10-leading-substitutes-for-chatgpt-in-todays-market/"><u>Discover the 10 Leading Substitutes for ChatGPT in Today's Market</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-top-5-no-cost-reader-programs-for-your-mac-computer/"><u>Discover the Top 5 No-Cost Reader Programs for Your Mac Computer</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-these-5-superior-browsers-as-perfect-substitutes-for-your-kindle-fire-device/"><u>Discover These 5 Superior Browsers as Perfect Substitutes for Your Kindle Fire Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-now-premium-zero-cost-spanish-english-word-converter-for-kindle-devices/"><u>Download Now: Premium, Zero Cost Spanish-English Word Converter for Kindle Devices</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-the-ultimate-no-cost-drm-ebook-liberator-software-for-mac-users/"><u>Download the Ultimate No-Cost DRM Ebook Liberator Software for Mac Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/drm-free-conversion-how-to-unlock-your-ebooks-in-various-formats/"><u>DRM-Free Conversion: How to Unlock Your Ebooks in Various Formats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Asus ROG Phone 7 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>In 2024, Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g14-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G14 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-portals-a-step-by-step-guide-to-teleportation-in-minecraft/"><u>Mastering Portals: A Step-by-Step Guide to Teleportation in Minecraft</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mejore-su-experiencia-con-amazon-kindle-eliminando-drm-de-archivos-azw/"><u>Mejore Su Experiencia Con Amazon Kindle Eliminando DRM De Archivos .AZW</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/share-your-reading-insights-transferring-highlights-from-kindle-books-to-pdf-format/"><u>Share Your Reading Insights: Transferring Highlights From Kindle Books to PDF Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/sharing-the-joy-of-reading-a-guide-to-passing-on-kindle-titles/"><u>Sharing the Joy of Reading: A Guide to Passing on Kindle Titles</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/showdown-of-storytelling-platforms-google-play-books-vs-amazon-audible-which-wins/"><u>Showdown of Storytelling Platforms: Google Play Books Vs. Amazon Audible - Which Wins?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-transferring-your-amazon-kindle-bookmarks-and-annotations-into-evernote/"><u>Step-by-Step Guide to Transferring Your Amazon Kindle Bookmarks & Annotations Into Evernote</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-bypassing-drm-protection-on-amazons-kindle-formats/"><u>Step-by-Step Guide: Bypassing DRM Protection on Amazon's Kindle Formats</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-7-locations-for-finding-and-downloading-free-kindle-wallpapers/"><u>Top 7 Locations for Finding & Downloading Free Kindle Wallpapers</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-free-tools-for-easy-pdf-to-epub-conversion-improve-your-digital-reading-experience/"><u>Top Free Tools for Easy PDF to ePUB Conversion – Improve Your Digital Reading Experience!</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/transitioning-from-kobo-a-complete-guide-to-access-your-e-books-on-amazon-kindle/"><u>Transitioning From Kobo: A Complete Guide to Access Your E-Books on Amazon Kindle</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unlock-your-kindle-books-step-by-step-tutorial-on-eliminating-drm-from-azwazw3azw4-formats/"><u>Unlock Your Kindle Books: Step-by-Step Tutorial on Eliminating DRM From AZW/AZW3/AZW4 Formats</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unlocking-content-simplified-with-ineptpdfs-python-script-for-drm-removal/"><u>Unlocking Content Simplified with IneptPDF's Python Script for DRM Removal</u></a></li>
+</ul></div>

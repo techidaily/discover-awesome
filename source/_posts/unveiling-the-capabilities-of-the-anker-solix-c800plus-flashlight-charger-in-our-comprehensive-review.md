@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Capabilities of the Anker Solix C800+ Flashlight Charger in Our Comprehensive Review
-date: 2024-08-28 12:55:18
-updated: 2024-08-29 11:14:48
+date: 2024-08-30T10:54:35.158Z
+updated: 2024-08-31T10:54:35.158Z
 tags:
   - product-reviews
 categories:
@@ -116,10 +116,17 @@ Close
 
  What the app is sorely missing, however, is the ability to set a schedule for it to charge itself. I would love to leave the battery plugged into the wall and then tell it not to charge itself until 9 PM to avoid high electricity rates.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Recharging the Big Battery Was Fast
 
 ![screen of Anker Solix C800 Plus showing capacity at 67%](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/screen-of-anker-solix-c800-plus-showing-capacity-at-67.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  In a perfect set of circumstances, I got the BougeRV 12V Mini Fridge in for testing around the same time as the C800 Plus battery. Both are great camping companions and worked well together.
@@ -136,10 +143,16 @@ Close
 
  I have some very tiny earbuds that take four or more hours to recharge their batteries. So it's a bit crazy to think that this massive one can be recharged, at full speed at home, in under an hour. I did notice that when recharging the C800 Plus at its normal speed, there was a low hum, a little softer than the mini-fridge. When I used the ultra-fast charging option and the unit rose above 950 watts, the sound was a bit louder. Once the temperature rose above 80F with a 1,030 average wattage, the fan noise was unavoidable and quite present in a quiet house. It's less of a downside and more of a consequence of fast charging.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Solix C800 Plus retails for $649 and will be available starting March 12th, 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Anker Solix C800 Plus?
 
 ![pole and two lights on top of Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-and-two-lights-on-top-of-anker-solix-c800-plus.JPG) 
@@ -152,8 +165,15 @@ Tyler Hayes / How-To Geek
 
 ![Anker SOLIX C800 Plus US](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/anker-solix-c800-plus-us.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 #####  Anker Solix C800 Plus
 
 8/ 10 
@@ -218,3 +238,54 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exploring-affordable-cloud-storage-solutions/"><u>[New] In 2024, Exploring Affordable Cloud Storage Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-switch-between-normal-and-picture-in-picture-views-in-youtube/"><u>[Updated] 2024 Approved  How to Switch Between Normal and Picture In Picture Views in Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-final-verdict-on-the-best-video-editors-online/"><u>[Updated] The Final Verdict on the Best Video Editors Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-gk-quizmasters-video-channel-list/"><u>2024 Approved  Apex GK Quizmasters' Video Channel List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/audio-visual-assurance-verify-windows-equipment-before-calling/"><u>Audio Visual Assurance: Verify Windows Equipment Before Calling</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-find-x7-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Find X7 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-seamless-gameplay-playing-age-of-empires-ii-after-upgrading-to-windows-11/"><u>Ensuring Seamless Gameplay: Playing Age of Empires II After Upgrading to Windows 11</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/essential-tips-for-writing-compelling-book-critiques/"><u>Essential Tips for Writing Compelling Book Critiques</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/explore-our-identity-learn-about-the-people-behind-our-success-story/"><u>Explore Our Identity: Learn About the People Behind Our Success Story</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6s-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6s with iTunes | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/get-your-adobe-files-unlocked-secure-immediate-drm-release/"><u>Get Your Adobe Files Unlocked: Secure Immediate DRM Release</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-bypass-drm-protection-in-topaz-publications-unlocking-your-e-books-and-ebooks/"><u>How to Bypass DRM Protection in Topaz Publications: Unlocking Your E-Books and eBooks</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-convert-your-protected-kobo-ebooks-into-unrestricted-epub-format/"><u>How to Convert Your Protected Kobo eBooks Into Unrestricted EPUB Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-install-the-mobile-version-of-kindle-on-your-device-a-step-by-step-guide/"><u>How to Install the Mobile Version of Kindle on Your Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-read-ebooks-in-epub-format-on-your-iphone-tips-for-iphones-6-5-and-4/"><u>How to Read eBooks in ePub Format on Your iPhone: Tips for iPhones 6, 5 & 4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-4650-driver-update-easy-installation-steps-and-tips-for-windows-users/"><u>HP OfficeJet 4650 Driver Update: Easy Installation Steps and Tips for Windows Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-c110-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia C110 FRP Bypass Instantly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-7-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 7</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/indispensable-complimentary-software-picks-for-your-nexus-7-and-amazon-kindle-fire/"><u>Indispensable Complimentary Software Picks for Your Nexus 7 and Amazon Kindle Fire</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/inquire-now-and-discover-solutions-next-chapter-awaits/"><u>Inquire Now & Discover Solutions - Next Chapter Awaits</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/knowledge-sharing-networks-building-strong-connections-through-ksn/"><u>Knowledge Sharing Networks: Building Strong Connections Through KSN</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/latest-update-software-version-30814-now-available/"><u>Latest Update: Software Version 3.0.8.14 Now Available</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mastering-koreader-a-comprehensive-tutorial-for-kindle-users/"><u>Mastering Koreader: A Comprehensive Tutorial for Kindle Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/maximize-your-amazon-kindle-joy-with-ingenious-techniques-complimentary-offers-and-expert-assistance/"><u>Maximize Your Amazon Kindle Joy with Ingenious Techniques, Complimentary Offers & Expert Assistance!</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mobile-optimization-strategies-enhancing-your-websites-mobility/"><u>Mobile Optimization Strategies: Enhancing Your Website's Mobility</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/online-epub-to-pdf-switcheroo-at-no-cost-get-started-now/"><u>Online EPUB to PDF Switcheroo at No Cost – Get Started Now!</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/seamless-conversion-from-epub-ebooks-to-portable-document-format-pdf/"><u>Seamless Conversion From EPUB eBooks to Portable Document Format (PDF)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplify-system-updates-wintel-hd520/"><u>Simplify System Updates W/Intel HD520</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-accessing-and-enjoying-drm-protected-ebooks-on-android-devices/"><u>Step-by-Step Guide: Accessing and Enjoying DRM Protected eBooks on Android Devices</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-drm-removal-from-ebooks-starting-at-chapter-19/"><u>Step-by-Step Guide: DRM Removal From eBooks - Starting at Chapter 19</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-removing-digital-restrictions-from-your-azw3-kindle-ebooks-2024-updates-included/"><u>Step-by-Step Guide: Removing Digital Restrictions From Your AZW3 Kindle Ebooks - 2024 Updates Included</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-setting-up-adobe-flash-player-on-your-kindle-fire-device/"><u>Step-by-Step Guide: Setting Up Adobe Flash Player on Your Kindle Fire Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-process-on-converting-pdf-documents-into-digital-ebook-format/"><u>Step-by-Step Process on Converting PDF Documents Into Digital eBook Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-tutorial-on-moving-amazon-kindle-ebooks-onto-google-play-store/"><u>Step-by-Step Tutorial on Moving Amazon Kindle Ebooks Onto Google Play Store</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/the-ultimate-tutorial-on-modifying-or-inserting-book-covers-in-epub-format/"><u>The Ultimate Tutorial on Modifying or Inserting Book Covers in EPUB Format</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-slender-protective-covers-for-amazons-kindle-paperwhite-a-comprehensive-guide/"><u>Top Slender Protective Covers for Amazon's Kindle Paperwhite: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-xbox-one-elite-series-2-gamepad-assessment-a-must-have-for-gamers/"><u>Top Xbox One Elite Series 2 Gamepad Assessment - A Must-Have for Gamers</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/transforming-the-look-of-an-ebook-a-comprehensive-tutorial-on-editing-epub-covers/"><u>Transforming the Look of an eBook: A Comprehensive Tutorial on Editing EPUB Covers</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-conversion-tutorial-for-mobi-books-to-azw-format-for-amazon-kindle-devices/"><u>Ultimate Conversion Tutorial for MOBI Books to AZW Format for Amazon Kindle Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-itel-a70-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-guide-sending-ebooks-and-pdfs-seamlessly-to-your-kindle-device/"><u>Ultimate Guide: Sending eBooks & PDFs Seamlessly to Your Kindle Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-guide-where-to-find-your-favorite-comics-for-free-online/"><u>Ultimate Guide: Where to Find Your Favorite Comics For Free Online</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/unconventional-listening-experience-transforming-taylor-swifts-reputation-into-an-audible-book/"><u>Unconventional Listening Experience: Transforming Taylor Swift’s 'Reputation' Into an Audible Book</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/understanding-the-parallel-processing-technique-a-comprehensive-guide/"><u>Understanding the Parallel Processing Technique: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/your-go-to-list-of-best-free-game-apps-on-android-for-2024/"><u>Your Go-To List of Best Free Game Apps on Android for 2024</u></a></li>
+</ul></div>
