@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Withings Body Scan Analysis: The Ultimate Health Tracking Device for Serious Athletes"
-date: 2024-08-30T10:54:28.123Z
-updated: 2024-08-31T10:54:28.123Z
+date: 2024-09-05T11:06:10.365Z
+updated: 2024-09-06T11:06:10.365Z
 tags:
   - product-reviews
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/750c1d86ce393517a7e8e0f28b8261fcac89b61944729e317e412d6180bd4eb2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Withings Body Scan Analysis: The Ultimate Health Tracking Device for Serious Athletes
 
 ### Key Takeaways
@@ -66,13 +72,16 @@ Body Scan connected health station helps users get a handle on health with the a
 
  The things that set it apart from the Withings Comp, the next closest scale in price, are its six-lead ECG for atrial fibrillation detection and fat and muscle body segmentation. It also has a larger color display and a USB-C rechargeable battery instead of three AAA batteries. However, the price jump between the two is significant at just over $200 at retail prices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Body Segmentation Could Have Been the Star
 
 ![close up of the color display on the Withings Body Scan](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/close-up-of-the-color-display-on-the-withings-body-scan.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I've tested several Withings scales over the years, including the newer [Body Smart](https://extra-tips.techidaily.com/the-pinnacle-of-editing-reviewing-movavi-pro-video-2024plus/). That lower-end model has worked well for me, but I was really curious about how the Body Scan’s body segmentation feature could help me isolate the areas I need to address.
@@ -88,7 +97,10 @@ Tyler Hayes / How-To Geek
 ![Back of Withings Body Scan showing USB-C charging port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/back-of-withings-body-scan-showing-usb-c-charging-port.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -104,6 +116,12 @@ Tyler Hayes / How-To Geek
 
  I did find it nice that within the Heath Mate app, I could tap a single button to generate a PDF report of an ECG test.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Mobile App and Battery Life
 
 Close 
@@ -122,22 +140,25 @@ Close
 
  I haven’t found a way to turn those off either, so, while I can shut off iOS notifications for the app as a whole, there’s always a red dot and a giant banner waiting for me inside the app. Beyond that, I’ve set up multiple users, and that worked well. I’ve had no trouble navigating the sections and checking the data provided.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Body Scan retails for $399.95 and comes in black or white.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy the Withings Body Scan?
 
 ![Withings Body Scan on a tile floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-on-a-tile-floor.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -147,9 +168,6 @@ Tyler Hayes / How-To Geek
 
 ![Body Scan scale](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/gftju-3p.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Withings Body Scan
 
 7/ 10 

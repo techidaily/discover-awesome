@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Capabilities of the Anker Solix C800+ Flashlight Charger in Our Comprehensive Review
-date: 2024-08-30T10:54:35.158Z
-updated: 2024-08-31T10:54:35.158Z
+date: 2024-09-05T11:06:10.517Z
+updated: 2024-09-06T11:06:10.517Z
 tags:
   - product-reviews
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/anker-solix-c800-plus-outside-on-pavers.JPG
 ---
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling the Capabilities of the Anker Solix C800+ Flashlight Charger in Our Comprehensive Review
 
 ### Key Takeaways
@@ -23,6 +35,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Anker Solix C800 Plus
 
 8/ 10 
@@ -86,6 +110,18 @@ Expand
 
 ![Pole light attched and straight on Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-light-attched-and-straight-on-anker-solix-c800-plus.JPG) 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The thing with big, backup batteries needed to power large electronics is that they tend to be big and heavy. The Solix C800 Plus isn’t small by any means, but I would describe it as tight and compact. It doesn’t look or feel unwieldy.
@@ -104,6 +140,12 @@ Close
 
  The retractable lighting pole is absolutely a gimmick, but one that could be useful for a lot of people. As well executed as the lights are, part of me would have rather used that top lid area to store the power cables. As it is, there’s nowhere to keep the cords when not using them. (By the way, Anker's other new power station, the [Solix C800](https://www.anker.com/products/a1753?variant=43203429302422&collections%5Fportable-power-stations=undefined&Sort%5Fby=Recommended), omits the lights so you can use the top area for cable storage.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  An App For a Battery Is a Good Idea
 
 Close 
@@ -116,17 +158,10 @@ Close
 
  What the app is sorely missing, however, is the ability to set a schedule for it to charge itself. I would love to leave the battery plugged into the wall and then tell it not to charge itself until 9 PM to avoid high electricity rates.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Recharging the Big Battery Was Fast
 
 ![screen of Anker Solix C800 Plus showing capacity at 67%](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/screen-of-anker-solix-c800-plus-showing-capacity-at-67.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  In a perfect set of circumstances, I got the BougeRV 12V Mini Fridge in for testing around the same time as the C800 Plus battery. Both are great camping companions and worked well together.
@@ -143,20 +178,20 @@ Close
 
  I have some very tiny earbuds that take four or more hours to recharge their batteries. So it's a bit crazy to think that this massive one can be recharged, at full speed at home, in under an hour. I did notice that when recharging the C800 Plus at its normal speed, there was a low hum, a little softer than the mini-fridge. When I used the ultra-fast charging option and the unit rose above 950 watts, the sound was a bit louder. Once the temperature rose above 80F with a 1,030 average wattage, the fan noise was unavoidable and quite present in a quiet house. It's less of a downside and more of a consequence of fast charging.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Solix C800 Plus retails for $649 and will be available starting March 12th, 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Anker Solix C800 Plus?
 
 ![pole and two lights on top of Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-and-two-lights-on-top-of-anker-solix-c800-plus.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I like everything the [Anker Solix C800 Plus](https://anker.pxf.io/c/156932/1959698/18023?subId1=htgsolixc800plusreview&u=https%3A%2F%2Fwww.anker.com%2Fanker-solix%2Fa1754-a1753-pps) offers, from its compact size, health cell capacity, and wide port selection to quirky pole light. The battery is a good value at its retail price of $650, but of course much better if you can snag it on sale—which it already has been.
@@ -166,13 +201,18 @@ Tyler Hayes / How-To Geek
 ![Anker SOLIX C800 Plus US](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/anker-solix-c800-plus-us.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Anker Solix C800 Plus
 

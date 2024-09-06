@@ -1,7 +1,7 @@
 ---
 title: How to Convert Your Protected Kobo eBooks Into Unrestricted EPUB Format
-date: 2024-08-25T20:32:52.614Z
-updated: 2024-08-26T20:32:52.614Z
+date: 2024-09-05T11:06:12.310Z
+updated: 2024-09-06T11:06:12.310Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a93717f2bc1e33482afa7bcb7676.jpg
@@ -9,6 +9,12 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 
 ## How to Convert Your Protected Kobo eBooks Into Unrestricted EPUB Format
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Convert Kobo Kepub to EPUB and Remove DRM
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7/24/2024 4:30:24 PM.
@@ -19,6 +25,12 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 About two years ago, when we sync purchased eBooks via Kobo for desktop app, we can get EPUB files, then we can sideload them to Sony eReader or any other device which supports Adobe Adept DRM to read.
 
 Later Kobo changed the rules, we can only get .kepub files from Kobo for desktop app, even the files are saved in a pretty deep path. And no program can read these .kepub files except Kobo. That brings much trouble to us.
@@ -52,8 +64,10 @@ Click "Yes" and "OK", keep all the options default. Once the Obok DeDRM added (u
 ![calibre obok](http://www.epubor.com/images/uppic/kobo-kepub-plugin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2\. Customize Obok DeDRM plugin to convert KEPUB 
 
@@ -62,15 +76,15 @@ Once the plugin added OK and the Calibre restarted, you will see the Obok Plugin
 ![obok toolbar](http://www.epubor.com/images/calibre-obok-bar.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Double lick the "Obok DeDRM 10.0.3", you will see an image like this.
 
 ![find kepub files](http://www.epubor.com/images/uppic/sync-kepub-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The plugin finds the synced books automatically and display them in a list. Choose the files you want to process and click "OK". 
 
 A small tip: You can choose multiple files by pressing "Ctrl" or "Shift" like what we do in windows file explorer.
@@ -82,7 +96,16 @@ While the plugin converts the Kepub files to EPUB, it also removes the DRM. You 
 ![convert kobo books to epub](http://www.epubor.com/images/convert-kobo-to-epub.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now you can easily read Kobo books on any app or device supporting EPUB format, and you can also use Calibre to convert it to Mobi and read on Kindle.
 
@@ -91,7 +114,10 @@ Important: By default, you are able to use this plugin to convert your kepub fil
 Method 2 1-Click to Convert Kobo to ePub
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 1: Install Epubor Ultimate Converter
 
@@ -105,6 +131,12 @@ Run the Kobo desktop reading app on your computer, and then log in with your own
 
 ![sync kobo kepub books](http://www.epubor.com/images/uppic/sync-kepub-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 I've said that all the files synced via Kobo desktop are with KEPUB format and are saved in a pretty deep path. But where to find them after all? What's the exactly location of Kobo KEPUB files?
 
 **For Windows:**_C:\\Users\\(user name)\\AppData\\Local\\Kobo\\Kobo Desktop Edition\\kepub_
@@ -116,12 +148,21 @@ I've said that all the files synced via Kobo desktop are with KEPUB format and a
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Q: I cannot find the kepub files on my mac. There is no kobo folder under Application support. Why?
 
 Maybe your Kobo desktop is not downloaded from kobo official site, but from App store. Please ensure that your kobo for mac is from official site. This is the most important for kepub drm removing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Remove DRM from Kobo KEPUB
 
 Get Epubor Ultimate started please. **It will automatically detect your Kobo desktop including all the synced KEPUB books.**
@@ -132,26 +173,32 @@ Different from using Calibre plugin, with this product when books added, drm soo
 
 ![remove drm from kobo kepub](http://www.epubor.com/images/uppic/remove-drm-from-kepub.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Another good point of this tool is, Calibre Obok DeDRM plugin can only deal with DRMed Kepub books. This means, before drm removing we have to check these books had drm or not, and what's worse, for those drm free kepub files, we can't convert them to epub. But if you choose Ultimate converter you won't have these worries! It helps detect all the synced KEPUB files no matter they had drm or not.
 
 This [in-depth guide: Kobo DRM Removal](https://tools.techidaily.com/epubor/products/) also has explained this feature in detailed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Convert kepub files to epub
 
 Once drm removed, then the following step is pretty simple. Select EPUB as output format, then click on "Convert" button.
 
 ![convert kobo kepub](http://www.epubor.com/images/uppic/convert-kobo-kepub.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then the converting will start. Batch conversion supported well, just with one click.
 
 Wait for a minute. Once finished it will pop up a window that tells you where the output ePub books are stored.![get converted epub](http://www.epubor.com/images/uppic/output-epub-converted-from-kepub.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 Anything finished well here. Now you can open and read these converted ePub books with any ePub reader, or transfer your ePub books to iPad for reading with iBooks, and more.
 
 Method 3 Convert KEPUB to ePub and remove drm with Kobo Converter(Support Kobo Plus)
@@ -164,12 +211,6 @@ First of all, let's download kobo ebooks first. No matter your kobo books are pu
 
 ![convert kobo kepub](http://www.epubor.com/images/uppic/download-kobo-ebooks-android.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Remove drm from kobo and convert kobo kepub to epub
 
 Now download and install Epubor Kobo Converter.
@@ -184,6 +225,12 @@ Then drag books from left to right side, click on "Start Conversion" button. A f
 
 ![convert kobo kepub](http://www.epubor.com/images/uppic/convert-kobo-kepub-epub-koboconverter.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can click "Open" to locate your converted kobo epub files.
 
 [How to convert Kobo audiobooks to MP3?](https://tools.techidaily.com/epubor/products/) The steps for converting kobo audiobooks to mp3 is the same as converting kobo ebooks. 
@@ -196,6 +243,12 @@ When comes to converting kobo plus ebooks and kobo audiobooks, **[Epubor Kobo Co
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
