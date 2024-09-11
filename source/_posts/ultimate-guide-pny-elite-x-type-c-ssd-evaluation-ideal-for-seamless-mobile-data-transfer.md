@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: PNY Elite-X Type-C SSD Evaluation - Ideal for Seamless Mobile Data Transfer"
-date: 2024-09-05T11:06:10.480Z
-updated: 2024-09-06T11:06:10.480Z
+date: 2024-09-10T09:47:38.049Z
+updated: 2024-09-11T09:47:38.049Z
 tags:
   - product-reviews
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d876d04dbe1c258634355223be.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate Guide: PNY Elite-X Type-C SSD Evaluation - Ideal for Seamless Mobile Data Transfer
 
 ### Key Takeaways
@@ -27,12 +21,20 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![The PNY Elite-X Type C Flash Drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pny-elite-x-type-c-flash-drive-product-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  PNY Elite-X Type C Flash Drive
 
 7/ 10 
@@ -68,28 +70,10 @@ With its blistering-fast transfer speeds and ergonomic design, the PNY Elite-X T
 
 [See at PNY](https://www.pny.com/en-eu/PNY-Elite-X-Type-C-USB-3-2-Gen-1-Flash-Drive?sku=P-FDI128ELTXC-GE) [$18 at Amazon](https://www.amazon.com/PNY-128GB-Elite-X-Type-C-Flash/dp/B0CMJBQSPT?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001625&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fpny-elite-x-type-c-flash-drive-review%2F&asc%5Fcampaign=Affiliate) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Design: Let There Be Light
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  At only 2.2 inches from top to bottom and 0.5 inches from side to side, I found the Elite-X Type C exceptionally small. This isn’t necessarily a bad thing, as many [external storage devices](https://buynow-info.techidaily.com/understanding-when-a-phone-needs-a-new-makeover/) can take up a ton of space.
@@ -102,16 +86,50 @@ Hannah Stryker / How-To Geek
 
  I also wish PNY would have incorporated a little more defense for the retractable connector. To insert the flash drive into a smartphone, tablet, or another device, you simply push on the back end of the drive housing (where the lanyard loop is located) to expose the connector. When you retract the USB-C prong though, both the top, left, and right sides of the connector are exposed, leaving the connector open to dirt and moisture.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Features: Capable and Compatible
 
 ![The PNY Elite-X Type C Flash Drive plugged into a Samsung phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-plugged-into-a-samsung-phone-2jpg_53404868342_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  Even though most phones, tablets, and computers are switching over to [USB-C](https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/), there are still a number of old and new devices that support both USB-C and USB-A connections. Unfortunately, you won’t find a USB-A adapter packaged with the Elite-X, which means you’ll be restricted to USB-C ports only. This means that you may want to invest in a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) if you plan on connecting the Elite-X to a smart TV, soundbar, or A/V receiver that doesn't have USB-C ports.
@@ -120,16 +138,24 @@ Hannah Stryker / How-To Geek
 
  In terms of compatibility, you’ll be able to use the Elite-X with PCs running Windows 7 and up, Apple hardware running macOS 8.6 or later, and some USB-C-equipped smartphones and tablets.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Using the PNY Elite-X Type C Flash Drive: A Great Experience
 
 ![The PNY Elite-X Type C Flash Drive plugged into a laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-plugged-into-a-laptopjpg_53405976338_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  I was able to test the Elite-X Type C Flash Drive using a late 2020 MacBook Pro. Seeing as the drive is optimized for USB 3.2 Gen 1 transfer speeds (up to 5Gbps), I was expecting some pretty zippy performance, but the true results were superlative.
@@ -140,11 +166,39 @@ Hannah Stryker / How-To Geek
 
  Available in 64GB, 128GB (my test model), or 256GB sizes, I was able to get my entire photo library and several layered GarageBand tracks onto the drive quickly. While it may take a bit longer for larger files, like 4K HDR content, I can totally see the Elite-X completing a 20GB upload in around 10 to 15 minutes.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the PNY Elite-X Type C Flash Drive?
 
  If you’re sick of external hard drives and cloud storage platforms, the [PNY Elite-X Type C Flash Drive](https://www.pny.com/en-eu/PNY-Elite-X-Type-C-USB-3-2-Gen-1-Flash-Drive?sku=P-FDI128ELTXC-GE) is an excellent local storage alternative for most phones, tablets, and computers. While there are a few design elements that could use some tweaking, this is one of the best non-network storage mediums for most USB-C hardware.
 
 ![The PNY Elite-X Type C Flash Drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pny-elite-x-type-c-flash-drive-product-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  PNY Elite-X Type C Flash Drive
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Withings Body Scan Analysis: The Ultimate Health Tracking Device for Serious Athletes"
-date: 2024-09-05T11:06:10.365Z
-updated: 2024-09-06T11:06:10.365Z
+date: 2024-09-10T09:47:37.947Z
+updated: 2024-09-11T09:47:37.947Z
 tags:
   - product-reviews
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/750c1d86ce393517a7e8e0f28b8261fcac89b61944729e317e412d6180bd4eb2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comprehensive Withings Body Scan Analysis: The Ultimate Health Tracking Device for Serious Athletes
 
 ### Key Takeaways
@@ -64,6 +58,26 @@ Body Scan connected health station helps users get a handle on health with the a
 
 [$399.95 at Withings](https://www.withings.com/us/en/body-scan/shop) [$399.95 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwithings-body-scan-connected-health-station-black%2F6560975.p%3FskuId%3D6560975) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  An All-In-One Health Station
 
  If you simply want to weigh yourself and keep track of that number over time, Withings has more economical scales to consider. The Body Scan is the advanced version of a scale and is prepared to take measurements from the sweat in your feet up throughout the rest of your body.
@@ -72,15 +86,23 @@ Body Scan connected health station helps users get a handle on health with the a
 
  The things that set it apart from the Withings Comp, the next closest scale in price, are its six-lead ECG for atrial fibrillation detection and fat and muscle body segmentation. It also has a larger color display and a USB-C rechargeable battery instead of three AAA batteries. However, the price jump between the two is significant at just over $200 at retail prices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Body Segmentation Could Have Been the Star
 
 ![close up of the color display on the Withings Body Scan](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/close-up-of-the-color-display-on-the-withings-body-scan.JPG) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Tyler Hayes / How-To Geek
 
@@ -92,16 +114,24 @@ Tyler Hayes / How-To Geek
 
  I also felt that way about the Electrodermal Activity Score (EDA), which provides an overview of your nervous system's sweat glands. This metric can be a flag for the effects of emotions on your body and, looked at over the long term, stress. In the short term, my results fell squarely in the middle of the normal range, providing little incentive to care about it. I'll have to wait to see how I feel about this metric over time.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Having an ECG on a Scale Makes Sense
 
 ![Back of Withings Body Scan showing USB-C charging port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/back-of-withings-body-scan-showing-usb-c-charging-port.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Having an ECG on your smart health product is all the rage now. The most common or popular place people have used one is probably on an Apple Watch or other smart fitness monitor. That's a single lead ECG, however, as in a single point of contact. For comparison, you might have a 12-lead ECG test in a doctor's office. To its credit, the Body Scan will provide more insight than an Apple Watch.
@@ -116,12 +146,6 @@ Tyler Hayes / How-To Geek
 
  I did find it nice that within the Heath Mate app, I could tap a single button to generate a PDF report of an ECG test.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Mobile App and Battery Life
 
 Close 
@@ -140,26 +164,42 @@ Close
 
  I haven’t found a way to turn those off either, so, while I can shut off iOS notifications for the app as a whole, there’s always a red dot and a giant banner waiting for me inside the app. Beyond that, I’ve set up multiple users, and that worked well. I’ve had no trouble navigating the sections and checking the data provided.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Price and Availability
 
  The Body Scan retails for $399.95 and comes in black or white.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Withings Body Scan?
 
 ![Withings Body Scan on a tile floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-on-a-tile-floor.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  The [Withings Body Scan](https://www.withings.com/us/en/body-scan/shop) is a terrific connected scale that goes far beyond just weight. In going far past just weight, the scale also rings up a hefty cost that probably won’t be suitable for most people and is still hard to justify for those it is suitable for.
@@ -167,6 +207,20 @@ Tyler Hayes / How-To Geek
  Even as someone who runs daily and has a keen motivation to watch my body’s stats closely, I had a hard time caring about all the collected data. If you fall into a narrow category of people who need everything the Body Scan can do and want it in the form factor of a scale, then it’s a great device. Unfortunately, I suspect that most people just don’t reside in that group.
 
 ![Body Scan scale](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/gftju-3p.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Withings Body Scan
 

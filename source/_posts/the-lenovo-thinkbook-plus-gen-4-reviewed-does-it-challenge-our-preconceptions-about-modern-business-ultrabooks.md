@@ -1,7 +1,7 @@
 ---
 title: "The Lenovo ThinkBook Plus Gen 4 Reviewed: Does It Challenge Our Preconceptions About Modern Business Ultrabooks?"
-date: 2024-09-05T11:06:10.462Z
-updated: 2024-09-06T11:06:10.462Z
+date: 2024-09-10T09:47:38.031Z
+updated: 2024-09-11T09:47:38.031Z
 tags:
   - product-reviews
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed58531552359326ac17834a5d8d.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## The Lenovo ThinkBook Plus Gen 4 Reviewed: Does It Challenge Our Preconceptions About Modern Business Ultrabooks?
 
 ### Key Takeaways
@@ -33,18 +35,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
 
 6/ 10 
@@ -118,9 +108,37 @@ Expand
 
 [$3040 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-4-%2813-inch-intel%29%2Flen101b0031%2F) [See at Walmart](https://www.walmart.com/ip/Lenovo-ThinkBook-Plus-Gen-4-Intel-Laptop-13-312-Glass-i7-1355U-Iris-Xe-Graphics-16GB-512GB-One-YR-Onsite-Warranty/5083766739?wmlspartner=wlpa&selectedSellerId=101004014) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Design: Ingenuity in Full Force
 
 ![The OLED screen of the Lenovo ThinkBook Plus Gen 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-back-facingjpg_53189355796_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Joe Robinson / How-To Geek
 
@@ -130,18 +148,6 @@ Joe Robinson / How-To Geek
 
 ![The rotating displays of the Lenovo ThinkBook Plus Gen 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-half-turned-eink-displayjpg_53189427534_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  The ThinkBook manages to accommodate both displays while still looking classy, too. Most of the hardware is made up of displays and a keyboard, while the remaining chassis is a glossy black color. Along the edges of the device, you’ll find two Thunderbolt 4 (TB4) USB-C ports, a power button that doubles as a fingerprint scanner, and a 3.5mm line-in. The laptop comes with a USB-C dongle that gives you an HDMI output and a USB-A port.
@@ -154,28 +160,30 @@ A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam
 
  You’ll also find heat-venting grilles along the rear bezel of the keyboard housing, as well as underneath.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Display(s): The E-Ink Screen is Haunted
 
 ![The Lenovo ThinkBook Plus Gen 4 being used as a tablet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-tablet-modejpg_53188636212_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  I liked that both screens could rotate in for full keyboard functionality, but it was just as simple to fold the display housing down over the keyboard for tablet usage.
@@ -188,12 +196,6 @@ Joe Robinson / How-To Geek
 
 ![A person taking notes on the Lenovo ThinkBook Plus Gen 4's e-ink display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-eink-display-tablet-mode-in-usejpg_53189718678_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  At 2,560 x 1600, (a step up from the ThinkBook Gen 2's black-and-white E-Ink panel), the ThinkBook’s enhanced pixel count and colorized display were more than I expected from an E-Ink display. I certainly appreciated my read-through of Poe’s "The Tell-Tale Heart" on the E-Ink screen, but there’s a big difference between recreational reading and urgent workplace needs.
@@ -202,28 +204,70 @@ Joe Robinson / How-To Geek
 
  Lenovo did think to include a manual refresh button, but at best, it only clears up around 60% of the temporary ghosting at a time. Admittedly, I switched to the OLED to finish reading "Tell-Tale"because I was so tired of all the refreshing I had to do.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Audio: Satisfactory
 
  The ThinkBook has two down-firing speakers that push a decent amount of sound. I put the laptop through some hard-hitting late '80s live Metallica, mostly to see how the speakers could handle max volume with heavier genres. I was impressed, to say the least. There wasn’t any distortion, even at the highest volume level. Somewhere between a 40 and 50 percent volume is going to be comfortable for most folks.
 
  As far as frequency representation though, the ThinkBook’s speakers aren’t taking home any awards. There’s very little bass to be had, and most of the EQ gets lumped into the upper mid-range.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Performance: Smooth Sailing for the Most Part
 
 ![The Lenovo ThinkBook Plus Gen 4's stylus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-stylus-with-aaa-batteryjpg_53189424009_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Joe Robinson / How-To Geek
 
  In terms of configurations, you’ll have the choice of a 13th Gen Intel i5 or Core i7 processor (my test unit) for your ThinkBook Plus Gen 4\. The laptop runs [Windows 11 Pro](https://some-skills.techidaily.com/updated-unveiling-the-pathway-to-high-quality-images-on-deal/), with 16GB of RAM soldered to the motherboard. Both CPU versions also come with 512GB of internal storage.
@@ -232,18 +276,6 @@ Joe Robinson / How-To Geek
 
 ![The Lenovo ThinkBook Plus Gen 4's OLED screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-front-facingjpg_53189357016_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  At close to $3,100, I really wanted to _feel_ the power of the i7 and that 16GB of RAM though. This isn’t to say that the ThinkBook disappointed, but I get just about the same responsiveness from my late 2020 13-inch MacBook Pro with the Apple M1 chip, and that computer only set me back $1,300.
@@ -267,6 +299,26 @@ Joe Robinson / How-To Geek
  There's also too little going on in the performance department. This is a Core i7 machine with 16GB of RAM after all, so I expected _at_ _least_ lightning-fast load times (which the laptop could barely manage).
 
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
 

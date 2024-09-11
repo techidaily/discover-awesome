@@ -1,26 +1,28 @@
 ---
 title: Step-by-Step Guide to Shooting HD Footage Using Your Mac's Built-In Camera
-date: 2024-09-05T11:06:11.775Z
-updated: 2024-09-06T11:06:11.775Z
+date: 2024-09-10T09:47:39.326Z
+updated: 2024-09-11T09:47:39.326Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/66532283e392299f83b40e1057e43cc22a016c0905229694154e720c235ea49f.jpg
 ---
 
-## Step-by-Step Guide to Shooting HD Footage Using Your Mac's Built-In Camera
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Guide to Shooting HD Footage Using Your Mac's Built-In Camera
+
 ## How to Record A Video with Webcam on macOS
 
 ###### Posted by [Candice Liu](https://www.linkedin.com/in/candice-liu-444483a3/) to **Video Editor** | Updated on Dec 7, 2018
@@ -29,32 +31,62 @@ YouTube, broadcast yourself. If you have something special and is willing to sha
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Mac Video Capture Software is a Must Have
 
 To capture your video using webcam, you need a program to activate your Mac webcam first. [**VideoProc**](https://tools.techidaily.com/macxdvd/products/) can be the one to play this role. As a cover-all video processing tool, it can activate your Mac webcam to record video on Mac in 4K, 1080p, 720p high definition, as well as capture iPhone/Mac screen video with best sound. That's not the end. Afterwards, it lets you further customize your video for faster uploading to YouTube, FB and more. You can transcode recorded video from MOV H264 to MP4/H265/FLV/3GP, cut video to shorten video length, split video into several clips, add your downloaded subtitles into it, crop/merge video, add special effects to video (mirror, Four Color, negate, sharpen, etc.), remove background static noise from video, make a funny GIF from video, etc.
 
 [![](https://www.macxdvd.com/video-editing/../seoimage/nfree_down.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-Secure Download
 
-[![](https://www.macxdvd.com/video-editing/../seoimage/nfree_down_win.png)](https://tools.techidaily.com/macxdvd/products/) 
-
-Secure Download
 
 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+Secure Download
+
+[![](https://www.macxdvd.com/video-editing/../seoimage/nfree_down_win.png)](https://tools.techidaily.com/macxdvd/products/) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+Secure Download
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  User Guide: How to Record Video with a Webcam on MacBook/iMac
 
 **Step 1:** Launch VideoProc you've downloaded on your desktop. Click "Recorder" icon on main interface.
@@ -63,28 +95,30 @@ Note: As you can see, there are another three options available, Video, DVD and 
 
 ![add subtitle to video](https://www.macxdvd.com/video-editing/step-image/videoproc-interface-700.jpg)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 **Step 2:** Tap "Camera" > choose "Camera" from the drop-down list. Then move your mouse to the bottom of the interface to find audio option, where you can opt for built-in input, built-in Microphone, system sounds, etc. to capture audio. Besides, at the lower left side of the interface, "Crop" feature can be enabled to freely adjust the capture size of your video (the width & the height).
 
 ![add subtitle to video](https://www.macxdvd.com/video-editing/step-image/record-webcam-800.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Hit "REC" button and this [Mac video recorder](https://tools.techidaily.com/macxdvd/products/) begins to capture video on macOS using your webcam. Press "Stop" button anytime you wanna call it end. After the recording is over, the output video will show up on the right side of the window, just under the "Output Folder" zone. Tap the magnifier icon to open its location and view your recording files.
 
 **Note:** you would have noticed that there is another option under "Camera" - screen & camera. This option is aimed to help you record your face and screen video on Mac, which is practical for creating tutorials or online lessons/lectures for students. The detailed processing steps are much of muchness. Needless to repeat it. Select it when tutorial/lesson recording is needed.
 
 ![add text watermark to video](https://www.macxdvd.com/video-editing/step-image/screen-camera-800.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Warm Prompt:** at the top banner of the window, activate Desktop button and you can easily [capture screen video on Mac](https://tools.techidaily.com/macxdvd/products/). It records almost anything happening on your display except the iTunes purchased DRMed videos or movies. What's plus, as long as you connect your iPhone to MacBook/iMac via USB cable, this powerful video processing software is capable of [recording iPhone screen video](https://tools.techidaily.com/macxdvd/products/) on your Mac and save it as .mov format for your latter usage.
 
 
@@ -93,48 +127,52 @@ Note: As you can see, there are another three options available, Video, DVD and 
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/tipsimg/i6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to Activate iMac/MacBook Camera to Record Video?](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/tipsimg/i1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Best 360 Video Recorder to Capture Video with 360 Degrees](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/tipsimg/i8.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Record Roblox Gameplay Video with Face and Voice | No Lag](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/tipsimg/i7.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Top 3 Free Online Screen Recorder - No Time/Length Limit](https://tools.techidaily.com/macxdvd/products/)
 
 
@@ -149,22 +187,24 @@ Best tool to record game video with crisp image.
 
 ![](https://www.macxdvd.com/video-editing/../seoimage/link_icon_blue.png) **[Free Download Best Screen Recorder for Mac](https://tools.techidaily.com/macxdvd/products/)** 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Download Mac screen recorder to capture any activities on mac.
 
 ![](https://www.macxdvd.com/video-editing/../seoimage/link_icon_blue.png) **[How to Capture YouTube Screen Video?](https://tools.techidaily.com/macxdvd/products/)** 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Unable to download YouTube video? Record YouTube screen. 
 
 
@@ -175,9 +215,49 @@ For any questions with VideoProc, please feel free to [contact our support team]
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/seoimg/i2.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 [VideoProc](https://tools.techidaily.com/macxdvd/products/)
 
 [Download Win](https://tools.techidaily.com/macxdvd/products/) [Download Mac](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/video-editing/../mobile/images/seoimg/dicon.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/seoimg/i1.png)
 
@@ -187,16 +267,38 @@ For any questions with VideoProc, please feel free to [contact our support team]
 
 ![](https://www.macxdvd.com/video-editing/../mobile/images/seoimg/i3.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 
 [Download Win](https://tools.techidaily.com/macxdvd/products/) [Download Mac](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/video-editing/../mobile/images/seoimg/dicon.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Free Products
 
 * [Digitize DVD >>](https://tools.techidaily.com/macxdvd/products/)
