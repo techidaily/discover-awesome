@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: PNY Elite-X Type-C SSD Evaluation - Ideal for Seamless Mobile Data Transfer"
-date: 2024-09-10T09:47:38.049Z
-updated: 2024-09-11T09:47:38.049Z
+date: 2024-09-24T02:35:49.862Z
+updated: 2024-09-25T22:43:32.672Z
 tags:
   - product-reviews
 categories:
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
  If you’ve been looking for a savvy way to store your smartphone photos and videos locally, the [PNY Elite-X Type C Flash Drive](https://www.pny.com/en-eu/PNY-Elite-X-Type-C-USB-3-2-Gen-1-Flash-Drive?sku=P-FDI128ELTXC-GE) may be the perfect solution. It transfers files quickly and works with most devices, but considering its small size, I’d recommend adding a GPS tracker to pair with it.
 
 ![The PNY Elite-X Type C Flash Drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pny-elite-x-type-c-flash-drive-product-1.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  PNY Elite-X Type C Flash Drive
 
@@ -74,22 +60,6 @@ With its blistering-fast transfer speeds and ergonomic design, the PNY Elite-X T
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
-Hannah Stryker / How-To Geek
-
- At only 2.2 inches from top to bottom and 0.5 inches from side to side, I found the Elite-X Type C exceptionally small. This isn’t necessarily a bad thing, as many [external storage devices](https://buynow-info.techidaily.com/understanding-when-a-phone-needs-a-new-makeover/) can take up a ton of space.
-
- That being said, I can see the Elite-X being very easy to lose, whether that’s between couch cushions or wedged into the bottom corner of a backpack pocket. While some built-in Tile or other GPS tracker would have been nice, the Elite-X’s lanyard loop does make it easy to slap an [AirTag or other detection gadget](https://techidaily.com/how-to-reset-oppo-reno-10-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/) onto the drive.
-
- The glossy-black plastic housing doesn’t do much to make the Elite-X stand out from the crowd. This is the shell that covers every part of the flash drive, except for the USB-C connector.
-
- I found myself wanting an LED status indicator on the drive. You'll know whether the drive is working or not based on your host device's ability to detect the Elite-X, but a simple pulsing white light on the drive to say "Hey, I'm connected!" could have been nice.
-
- I also wish PNY would have incorporated a little more defense for the retractable connector. To insert the flash drive into a smartphone, tablet, or another device, you simply push on the back end of the drive housing (where the lanyard loop is located) to expose the connector. When you retract the USB-C prong though, both the top, left, and right sides of the connector are exposed, leaving the connector open to dirt and moisture.
-
-
-
-
-
 <!-- affiliate ads begin -->
 <span id="1983446">
 					<video width="576" height="240" style="cursor:pointer"
@@ -103,32 +73,21 @@ Hannah Stryker / How-To Geek
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+Hannah Stryker / How-To Geek
 
+ At only 2.2 inches from top to bottom and 0.5 inches from side to side, I found the Elite-X Type C exceptionally small. This isn’t necessarily a bad thing, as many [external storage devices](https://buynow-info.techidaily.com/understanding-when-a-phone-needs-a-new-makeover/) can take up a ton of space.
 
+ That being said, I can see the Elite-X being very easy to lose, whether that’s between couch cushions or wedged into the bottom corner of a backpack pocket. While some built-in Tile or other GPS tracker would have been nice, the Elite-X’s lanyard loop does make it easy to slap an [AirTag or other detection gadget](https://techidaily.com/how-to-reset-oppo-reno-10-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/) onto the drive.
+
+ The glossy-black plastic housing doesn’t do much to make the Elite-X stand out from the crowd. This is the shell that covers every part of the flash drive, except for the USB-C connector.
+
+ I found myself wanting an LED status indicator on the drive. You'll know whether the drive is working or not based on your host device's ability to detect the Elite-X, but a simple pulsing white light on the drive to say "Hey, I'm connected!" could have been nice.
+
+ I also wish PNY would have incorporated a little more defense for the retractable connector. To insert the flash drive into a smartphone, tablet, or another device, you simply push on the back end of the drive housing (where the lanyard loop is located) to expose the connector. When you retract the USB-C prong though, both the top, left, and right sides of the connector are exposed, leaving the connector open to dirt and moisture.
 
 ##  Features: Capable and Compatible
 
 ![The PNY Elite-X Type C Flash Drive plugged into a Samsung phone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-plugged-into-a-samsung-phone-2jpg_53404868342_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
@@ -138,19 +97,12 @@ Hannah Stryker / How-To Geek
 
  In terms of compatibility, you’ll be able to use the Elite-X with PCs running Windows 7 and up, Apple hardware running macOS 8.6 or later, and some USB-C-equipped smartphones and tablets.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Using the PNY Elite-X Type C Flash Drive: A Great Experience
 
@@ -166,19 +118,12 @@ Hannah Stryker / How-To Geek
 
  Available in 64GB, 128GB (my test model), or 256GB sizes, I was able to get my entire photo library and several layered GarageBand tracks onto the drive quickly. While it may take a bit longer for larger files, like 4K HDR content, I can totally see the Elite-X completing a 20GB upload in around 10 to 15 minutes.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  Should You Buy the PNY Elite-X Type C Flash Drive?
 
@@ -186,19 +131,12 @@ Hannah Stryker / How-To Geek
 
 ![The PNY Elite-X Type C Flash Drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pny-elite-x-type-c-flash-drive-product-1.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #####  PNY Elite-X Type C Flash Drive
 
@@ -230,8 +168,6 @@ With its blistering-fast transfer speeds and ergonomic design, the PNY Elite-X T
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +175,26 @@ With its blistering-fast transfer speeds and ergonomic design, the PNY Elite-X T
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-awesome.techidaily.com/1-ultimate-guide-manycam-the-top-live-streaming-app-with-virtual-camera-features/"><u>1. Ultimate Guide: ManyCam - The Top Live Streaming App with Virtual Camera Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixelpioneer-8-version-visual-conjurer/"><u>2024 Approved PixelPioneer 8-Version Visual Conjurer</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-manycam-alternatives-top-live-streaming-tools-and-online-camera-solutions/"><u>Best ManyCam Alternatives: Top Live Streaming Tools and Online Camera Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-skills-through-effort-not-chatgpt-replies/"><u>Building Skills Through Effort, Not ChatGPT Replies</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/download-adult-content-from-sunporno-the-ultimate-guide-to-free-movie-access/"><u>Download Adult Content From SunPorno: The Ultimate Guide to Free Movie Access</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-broadcasts-with-manycam-the-ultimate-live-video-and-webcam-solution/"><u>Enhance Your Broadcasts with ManyCam - The Ultimate Live Video and Webcam Solution</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-broadcasts-discover-manycams-top-tier-video-editing-and-remote-camera-solutions/"><u>Enhance Your Broadcasts: Discover ManyCam's Top-Tier Video Editing & Remote Camera Solutions</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-live-broadcasts-using-manycam-a-leading-solution-in-virtual-camera-technology/"><u>Enhance Your Live Broadcasts Using ManyCam: A Leading Solution in Virtual Camera Technology</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-live-broadcasts-with-manycam-a-comprehensive-guide-to-virtual-webcams-and-live-video-editing-tools/"><u>Enhance Your Live Broadcasts with ManyCam: A Comprehensive Guide to Virtual Webcams and Live Video Editing Tools</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-livestreams-discover-the-power-of-manycams-virtual-webcams/"><u>Enhance Your Livestreams: Discover the Power of ManyCam's Virtual Webcams</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-online-presence-using-manycam-top-tier-live-video-editing-and-remote-webcam-tech/"><u>Enhance Your Online Presence Using ManyCam - Top-Tier Live Video Editing & Remote Webcam Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-binkw32dll-missing-errors-on-your-pc/"><u>How to Address Binkw32.dll Missing Errors on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y78plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y78+ Quickly? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-new-look-samsungs-k850-ultrablade-review-2023/"><u>In 2024, New Look Samsung's K850 UltraBlade Review 2023</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1725616899498-live-streaming-made-easy-discover-manycams-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover ManyCam's Virtual Camera Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-playthroughs-await-with-these-swift-fixes-for-elden-rings-fps-problems/"><u>Seamless Playthroughs Await with These Swift Fixes for Elden Ring's FPS Problems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-guide-to-enhancing-avi-files-with-audio-tracks/"><u>Updated 2024 Approved The Guide to Enhancing AVI Files with Audio Tracks</u></a></li>
+</ul></div>
 

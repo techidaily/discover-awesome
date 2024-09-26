@@ -1,27 +1,13 @@
 ---
 title: "The Lenovo ThinkBook Plus Gen 4 Reviewed: Does It Challenge Our Preconceptions About Modern Business Ultrabooks?"
-date: 2024-09-10T09:47:38.031Z
-updated: 2024-09-11T09:47:38.031Z
+date: 2024-09-19T17:05:39.293Z
+updated: 2024-09-25T22:49:08.483Z
 tags:
   - product-reviews
 categories:
   - tech
 thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed58531552359326ac17834a5d8d.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## The Lenovo ThinkBook Plus Gen 4 Reviewed: Does It Challenge Our Preconceptions About Modern Business Ultrabooks?
 
@@ -108,37 +94,9 @@ Expand
 
 [$3040 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-4-%2813-inch-intel%29%2Flen101b0031%2F) [See at Walmart](https://www.walmart.com/ip/Lenovo-ThinkBook-Plus-Gen-4-Intel-Laptop-13-312-Glass-i7-1355U-Iris-Xe-Graphics-16GB-512GB-One-YR-Onsite-Warranty/5083766739?wmlspartner=wlpa&selectedSellerId=101004014) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Design: Ingenuity in Full Force
 
 ![The OLED screen of the Lenovo ThinkBook Plus Gen 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-back-facingjpg_53189355796_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Joe Robinson / How-To Geek
 
@@ -154,31 +112,18 @@ Joe Robinson / How-To Geek
 
 ![A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-webcam-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam
 
  There’s a 1080p webcam at the top of both the OLED screen and another lens on the E-Ink display, both of which deliver decent image quality for all your video-conferencing needs. Yes, you'll be able to take video calls using the E-Ink panel, although I'm guessing most folks will opt for the OLED.
 
  You’ll also find heat-venting grilles along the rear bezel of the keyboard housing, as well as underneath.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Display(s): The E-Ink Screen is Haunted
 
@@ -196,6 +141,13 @@ Joe Robinson / How-To Geek
 
 ![A person taking notes on the Lenovo ThinkBook Plus Gen 4's e-ink display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-eink-display-tablet-mode-in-usejpg_53189718678_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  At 2,560 x 1600, (a step up from the ThinkBook Gen 2's black-and-white E-Ink panel), the ThinkBook’s enhanced pixel count and colorized display were more than I expected from an E-Ink display. I certainly appreciated my read-through of Poe’s "The Tell-Tale Heart" on the E-Ink screen, but there’s a big difference between recreational reading and urgent workplace needs.
@@ -204,69 +156,28 @@ Joe Robinson / How-To Geek
 
  Lenovo did think to include a manual refresh button, but at best, it only clears up around 60% of the temporary ghosting at a time. Admittedly, I switched to the OLED to finish reading "Tell-Tale"because I was so tired of all the refreshing I had to do.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Audio: Satisfactory
 
  The ThinkBook has two down-firing speakers that push a decent amount of sound. I put the laptop through some hard-hitting late '80s live Metallica, mostly to see how the speakers could handle max volume with heavier genres. I was impressed, to say the least. There wasn’t any distortion, even at the highest volume level. Somewhere between a 40 and 50 percent volume is going to be comfortable for most folks.
 
  As far as frequency representation though, the ThinkBook’s speakers aren’t taking home any awards. There’s very little bass to be had, and most of the EQ gets lumped into the upper mid-range.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Performance: Smooth Sailing for the Most Part
 
 ![The Lenovo ThinkBook Plus Gen 4's stylus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-stylus-with-aaa-batteryjpg_53189424009_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Joe Robinson / How-To Geek
 
@@ -275,6 +186,13 @@ Joe Robinson / How-To Geek
  I had no issues with the ThinkBook’s performance. My preferred setup was the OLED screen in laptop mode, and it did everything I needed it to do. In fact, I intentionally ran an unnecessary number of apps at the same time, along with several browser tabs. One of the tabs was looping a 4K HDR video, while another was running an interactive weather radar. Bouncing from apps to webpages was trouble-free, although I did have to contend with some delay whenever I would launch a new app. I thought this was surprising, especially for a Core i7 machine.
 
 ![The Lenovo ThinkBook Plus Gen 4's OLED screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-front-facingjpg_53189357016_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -300,25 +218,12 @@ Joe Robinson / How-To Geek
 
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
 
@@ -334,8 +239,6 @@ The Lenovo ThinkBook Plus Gen 4 is fun to use, but beyond its arresting OLED dis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -343,4 +246,21 @@ The Lenovo ThinkBook Plus Gen 4 is fun to use, but beyond its arresting OLED dis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-strategies-for-penning-persuasive-vlogger-content/"><u>[New] In 2024, Strategies for Penning Persuasive Vlogger Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>[New] Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pro-level-video-conferencing-picking-the-best-5-recorders/"><u>[Updated] Pro-Level Video Conferencing Picking the Best 5 Recorders</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-multicam-pro-advanced-live-streaming-and-remote-camera-solutions/"><u>1. MultiCam Pro: Advanced Live Streaming and Remote Camera Solutions</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/efficiently-convert-videos-to-hevc-format-using-handbrake-complete-encoder-setup-tutorial/"><u>Efficiently Convert Videos to HEVC Format Using Handbrake – Complete Encoder Setup Tutorial</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/entschlussele-das-ratsel-des-kopierens-geschutzter-dvds-entdeckung-der-besten-7-losungsstrategien/"><u>Entschlüssele Das Rätsel Des Kopierens Geschützter DVDs: Entdeckung Der Besten 7 Lösungsstrategien</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C55 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/iphonecd3/"><u>IPhoneで直接CDから音楽を移せる3つの手順専用ガイド</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/premiere-pro-202n-crashes-resolved-fix-your-hanging-issues-now/"><u>Premiere Pro 202N Crashes Resolved - Fix Your Hanging Issues Now</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-rated-gratis-uhd-streaming-application-with-h265hevc-compatibility-for-pcs-windows-11-macos-update-2020/"><u>Top-Rated Gratis UHD Streaming Application with H.265/HEVC Compatibility for PCs (Windows 11, macOS) - Update 2020</u></a></li>
+<li><a href="https://some-skills.techidaily.com/up-close-and-personal-tips-for-sharper-videos-on-videoleap-for-2024/"><u>Up Close & Personal Tips for Sharper Videos on Videoleap for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-and-macaitop10/"><u>Windows & Mac專用頂級免費AI影片擴充器TOP10清單</u></a></li>
+</ul></div>
 
