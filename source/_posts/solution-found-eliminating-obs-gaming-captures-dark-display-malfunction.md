@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Eliminating OBS Gaming Capture's Dark Display Malfunction"
-date: 2024-09-18T17:17:59.051Z
-updated: 2024-09-25T22:50:28.343Z
+date: 2024-09-30T21:00:44.100Z
+updated: 2024-10-05T21:47:42.499Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e992652aa5e9b27c3e355526ca4c.jpg
@@ -33,13 +33,6 @@ _"Trying to set up an OSU! stream on mac, but when i try to set up a source for 
 _"Hello, I have recently started using OBS and whenever I want to record a game it's just sound but no image. How do I fix this?" – Reddit user_
 
 As a popular real-time screen recorder and streamer, OBS is chosen by almost all gamers to record gameplays and live stream them to eSports websites like Twitch. However, **OBS not capturing game** issue is a headache that you meet at least once when trying to open OBS Studio to record a gameplay video from screen on Mac or Windows PC. But no biggie, this guide compiles solutions to fix corresponding errors including the notorious black screen error, Game Capture option not showing up on Mac, and OBS not recording full screen game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## OBS Game Capture not Showing Up on Mac, Try Its Mac Alternative
 
@@ -89,13 +82,6 @@ There are 3 main capturing modes in OBS for you to screen recording games or com
 
 ![Use Game Capture in OBS](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/obs-game-capture.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Use Game Capture in OBS
 
 ### Solution 3\. Let OBS and Your Game Use the Same Graphics Card
@@ -113,13 +99,6 @@ Sometimes, OBS not capturing game issue is because your OBS game recorder and yo
 
 Switch Graphics Cards
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 4\. Use High-performance GPU on computer with multiple GPUs
 
 If you are using a laptop or all-in-one computer with multiple GPU graphics cards, make sure your OBS recorder and the game you are running are using the High-performance GPU. 
@@ -127,6 +106,13 @@ If you are using a laptop or all-in-one computer with multiple GPU graphics card
 Some users might think your OBS and games would automatically activate the strongest GPU or prefer discrete GPU to integrated GPU. However, that's not always the case. Let's take Minecraft: Java Edition and osu! for instance. The default GPU of this game is the inferior integrated GPU on multi-GPU systems, not the more powerful discrete GPU graphics card. 
 
 Therefore, if your game doesn't take the strongest GPU as default setting in game recording with OBS, change the game to the high-performance GPU, then restart the game and OBS Studio on your multi-GPU computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5\. Update Graphics Drivers
 
@@ -145,13 +131,6 @@ Under this circumstance, you're suggested to uninstall your existing graphics dr
 ![Update graphics drivers](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/update-drive-for-obs.jpg) 
 
 6. Restart your computer and check if the OBS not capturing game problem gets resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 6\. Enable the Compatibility Mode
 
@@ -181,13 +160,6 @@ If there is a forward slash on the eye next to "Game Capture" in "Sources", it m
 
 Turn on OBS Eye
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 11\. Stretch Out the Recording Screen
 
 When you add a new Game Capture in OBS, there is a red dot displays on the top left corner of the recording window inside OBS. Just expand the red dot from top left corner to the bottom right corner to fill the screen to full screen capture games with OBS.
@@ -207,6 +179,13 @@ If it's RTSS version 7.3.2 or newer model installed on your laptop, you can enab
 The GPU graphics API also matter a lot in gameplay video capturing via OBS. Some DX12 games may encounter black screen, game crash or weird frame error when it's in DX12 API mode during OBS game recording. 
 
 To tackle this issue, try DirectX 11 API if your game supports this API mode. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 14\. Disable Other OBS Studio-like Application
 
@@ -247,6 +226,13 @@ It is possible that you might have accidentally muted your OBS device. You'd bet
 
 * Check to see if OBS can capture game audio on desktop. If not, move to the next workaround.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. Reinstall OBS Game Capture Tool
 
 Reinstalling software is always workable in most cases. This is of no exception. Re-install your OBS capture program on your Windows or macOS desktop to have a try: 
@@ -271,9 +257,23 @@ In some cases, it's not your OBS studio but speaker settings of your desktop to 
 
 ![Properties](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/obs-audio-settings-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Go to the second tab marked Levels. Check if the device is muted.
 
 ![levels](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/obs-audio-settings-3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Drag the slider to the right to turn up the volume > click Apply to save the changes made.
 * In the next tab i.e. Advanced tab > untick the box next to Allow applications.
@@ -288,13 +288,6 @@ In some cases, it's not your OBS studio but speaker settings of your desktop to 
 
 Check if OBS is recording game audio now. If not, move to the Solution 4 below. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  4\. Change Speaker Enhancements
 
 Here are the steps to enhance the performance of computer speaker:
@@ -307,13 +300,6 @@ Here are the steps to enhance the performance of computer speaker:
 
 * Click on Apply > OK to confirm and apply these settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  5\. Change OBS Settings
 
 On top of adjusting the audio settings of your desktop, you're suggested to change your OBS audio settings, as well, especially when you still don't get problem solved via the afore-mentioned methods. Here's the instruction: 
@@ -321,6 +307,13 @@ On top of adjusting the audio settings of your desktop, you're suggested to chan
 * Launch Open Broadcaster Software > click on File from the top-left corner > click Settings.
 
 ![Settings](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/change-obs-setting.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select Audio> Channels > Stereo.
 * Scroll down in that same window and search for Global Audio Devices. Select the device you are using for Desktop Audio as well as for Mic/Auxiliary Audio.
@@ -371,6 +364,19 @@ OBS Game Capture Fullscreen
 **Solution 3.** There is another case in OBS not capturing game in full screen. OBS application will stop rendering when you alt+tab out a game and the game is tuned to run in full-screen mode. This means your game in OBS won't show up while OBS is minimized. The workarounds go to: make a test recording and check it to verify the capture functioned normally, or move OBS recorder software to a second monitor to try again. 
 
 Meanwhile, emulators and older games are often incompatible with modern game capture software like OBS. Providing you are having issues with OBS in capturing game in full screen, try OBS alternative (below) to record game video without issue.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5\. Best OBS Alternative to Capture Games on Mac/Windows 10
 
@@ -426,13 +432,6 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Top Ways to Record Screen Video on Mac OS with High Quality](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
@@ -450,6 +449,13 @@ Related Articles
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -495,20 +501,20 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-revolution-of-perception-in-augmented-realms/"><u>[New] The Revolution of Perception in Augmented Realms</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1-seamlessly-transform-files-from-rm-to-mp3-a-comprehensive-guide/"><u>1. Seamlessly Transform Files From RM to MP3: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/essential-tips-for-kinemaster-proficiency-and-excellent-competitors-for-2024/"><u>Essential Tips for KineMaster Proficiency and Excellent Competitors for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-13-pro-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 13 Pro 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/htful-ways-to-monitor-youtube-viewership-trends-for-2024/"><u>Insightful Ways to Monitor YouTube Viewership Trends for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-90-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 90 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-narzo-60-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-v30-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme V30 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/understanding-the-causes-of-larger-video-sizes-post-trim-prevention-tips/"><u>Understanding the Causes of Larger Video Sizes Post-Trim: Prevention Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-flawless-internet-connectivity-an-in-depth-look-at-the-google-nest-wi-fi-system/"><u>Unlocking Flawless Internet Connectivity: An In-Depth Look at the Google Nest Wi-Fi System</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726027295682-wav/"><u>WAVへの変換ガイド - ニコニコ動画からオフラインで楽曲ダウンロード</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726029037352-iphoneandroid/"><u>スマートフォンの自撮りビデオにおける左右反転修正手段 - iPhone/Android</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726028399422-dvd/"><u>ダウンロード後無限に再生できる！ディズニーDVDを安全にコピーする方法</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726027752358-windows-1011/"><u>マルチトラックなしで内部音声をWindows 10または11環境下で記録する方法</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleash-creativity-professional-insights-into-shooting-and-editing-stunning-slow-motion-content-for-instagram-for-2024/"><u>[New] Unleash Creativity Professional Insights Into Shooting and Editing Stunning Slow Motion Content for Instagram for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-virtualvicar-video-vetting/"><u>[Updated] 2024 Approved VirtualVicar Video Vetting</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/10-guaranteed-steps-convert-vob-files-to-mp4-format-at-no-cost-on-your-mac/"><u>10 Guaranteed Steps: Convert VOB Files to MP4 Format at No Cost on Your Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/boosting-video-dimensions-on-youtube-platform-for-2024/"><u>Boosting Video Dimensions on YouTube Platform for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-xc0f1103f-issue-with-geforce-now-on-windows/"><u>Fixing XC0F1103F Issue with GeForce Now on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-power-off-your-pc-running-windows-11-solutions-explored/"><u>How to Successfully Power Off Your PC Running Windows 11: Solutions Explored</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-14-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 14 to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-no-more-distractions-expert-guide-to-removing-youtube-ads/"><u>In 2024, No More Distractions - Expert Guide to Removing YouTube Ads</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ipodmac-x-mkvm2tsavimacos/"><u>IPodに最適化されたMac X 動画変換ソフト: MKV、M2TS、AVIを簡単にMacOSへ転送</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/macx-hd-video-converter-pro-advanced-windows-1nk-transcoding-software-for-seamless-m2ts-avchd-mkv-to-various-formats-ideal-for-iphoneipadandroidmicrosoft-de26/"><u>MacX HD Video Converter Pro: Advanced Windows (1Nk) Transcoding Software for Seamless M2TS, AVCHD, MKV to Various Formats - Ideal for iPhone/iPad/Android/Microsoft Device Playback & YouTube Downloads</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1724765963590-macx-video-converter-pro/"><u>MacX Video Converter Pro公式ガイド: 日本語対応版のダウンロードと使い方</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces/"><u>New Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/seamless-mov-file-integration-into-imovie-a-step-by-step-tutorial/"><u>Seamless MOV File Integration Into iMovie: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/troubleshooting-and-replacing-showbox-app-for-smartphones-and-tablets-latest-solutions/"><u>Troubleshooting and Replacing Showbox App for Smartphones & Tablets (Latest Solutions)</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-file-transfer-solution-between-mac-and-ios-devices/"><u>Ultimate File Transfer Solution Between Mac and iOS Devices</u></a></li>
 </ul></div>
 

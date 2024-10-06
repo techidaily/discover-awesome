@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Capabilities of the Anker Solix C800+ Flashlight Charger in Our Comprehensive Review
-date: 2024-09-20T19:26:34.708Z
-updated: 2024-09-25T17:29:38.951Z
+date: 2024-10-02T02:31:06.284Z
+updated: 2024-10-06T01:26:58.097Z
 tags:
   - product-reviews
 categories:
@@ -82,9 +82,23 @@ Expand
 
 [$649 at anker](https://anker.pxf.io/c/156932/1959698/18023?subId1=htgsolixc800plusreview&u=https%3A%2F%2Fwww.anker.com%2Fanker-solix%2Fa1754-a1753-pps) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Design, Features, and Gimmicks
 
 ![Pole light attched and straight on Anker Solix C800 Plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/pole-light-attched-and-straight-on-anker-solix-c800-plus.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -104,13 +118,6 @@ Close
 
  The retractable lighting pole is absolutely a gimmick, but one that could be useful for a lot of people. As well executed as the lights are, part of me would have rather used that top lid area to store the power cables. As it is, there’s nowhere to keep the cords when not using them. (By the way, Anker's other new power station, the [Solix C800](https://www.anker.com/products/a1753?variant=43203429302422&collections%5Fportable-power-stations=undefined&Sort%5Fby=Recommended), omits the lights so you can use the top area for cable storage.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  An App For a Battery Is a Good Idea
 
 Close 
@@ -123,34 +130,15 @@ Close
 
  What the app is sorely missing, however, is the ability to set a schedule for it to charge itself. I would love to leave the battery plugged into the wall and then tell it not to charge itself until 9 PM to avoid high electricity rates.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Recharging the Big Battery Was Fast
 
 ![screen of Anker Solix C800 Plus showing capacity at 67%](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/screen-of-anker-solix-c800-plus-showing-capacity-at-67.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -169,6 +157,13 @@ Close
 
  I have some very tiny earbuds that take four or more hours to recharge their batteries. So it's a bit crazy to think that this massive one can be recharged, at full speed at home, in under an hour. I did notice that when recharging the C800 Plus at its normal speed, there was a low hum, a little softer than the mini-fridge. When I used the ultra-fast charging option and the unit rose above 950 watts, the sound was a bit louder. Once the temperature rose above 80F with a 1,030 average wattage, the fan noise was unavoidable and quite present in a quiet house. It's less of a downside and more of a consequence of fast charging.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Solix C800 Plus retails for $649 and will be available starting March 12th, 2024.
@@ -184,13 +179,6 @@ Tyler Hayes / How-To Geek
  It’s best to buy products you have an immediate need for, but this is one of the few you might not know you’ll need backup power until it's too late. Of course, having a lot of available power and lighting is also a good excuse to go camping more than you might otherwise.
 
 ![Anker SOLIX C800 Plus US](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/anker-solix-c800-plus-us.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -259,24 +247,18 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-explore-unlimited-free-fun-with-top-meme-templates/"><u>[New] In 2024, Explore Unlimited Free Fun with Top Meme Templates</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-learn-quickly-youtube-audio-to-high-quality-mp3-on-mac-os/"><u>[New] In 2024, Learn Quickly YouTube Audio to High-Quality MP3 on Mac OS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-record-internal-audio-in-android-without-root-4-ways/"><u>[New] In 2024, Record Internal Audio in Android without Root [4 Ways]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>[New] Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-webinars-in-written-form/"><u>2024 Approved Webinars in Written Form</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>In 2024, From Script to Screen Methods of Inserting Dialogue Into Online Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-your-linkedin-url/"><u>In 2024, Tailoring Your LinkedIn URL</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/live-broadcast-tools-and-online-cam-effects-discover-the-best-manycam-substitutes-for-your-videos/"><u>Live Broadcast Tools & Online Cam Effects: Discover the Best ManyCam Substitutes for Your Videos</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/live-streaming-made-simple-discover-manycams-powerful-video-editing-and-virtual-camera-tools/"><u>Live Streaming Made Simple: Discover ManyCam's Powerful Video Editing and Virtual Camera Tools</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/live-streaming-with-manycam-top-notch-video-editing-and-simulated-webcams/"><u>Live Streaming with ManyCam: Top-Notch Video Editing and Simulated Webcams</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/real-time-streaming-mastery-with-manycam-the-ultimate-virtual-camcorder-solution/"><u>Real-Time Streaming Mastery with ManyCam: The Ultimate Virtual Camcorder Solution</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/real-time-streaming-with-manycam-top-virtual-camera-and-live-broadcast-tool/"><u>Real-Time Streaming with ManyCam: Top Virtual Camera and Live Broadcast Tool</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/revolutionize-remote-communication-with-manycam-the-top-choice-for-live-video-broadcasting-and-virtual-camera-tech/"><u>Revolutionize Remote Communication with ManyCam - The Top Choice for Live Video Broadcasting and Virtual Camera Tech</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/seamless-broadcasting-with-manycam-your-ultimate-live-streaming-and-virtual-camera-solution/"><u>Seamless Broadcasting with ManyCam: Your Ultimate Live Streaming and Virtual Camera Solution</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/solving-the-activation-limit-exceeded-issue-a-step-by-step-guide-to-restoring-access-in-manycam/"><u>Solving the 'Activation Limit Exceeded' Issue: A Step-by-Step Guide to Restoring Access in ManyCam</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-set-a-new-screen-time-password-for-ios-and-macos-devices/"><u>Step-by-Step Tutorial: How to Set a New Screen Time Password for iOS & macOS Devices</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-choices-in-livestreaming-tools-discover-manycam-bandicam-and-screencastify/"><u>Top Choices in Livestreaming Tools: Discover ManyCam, Bandicam, and Screencastify</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-editor-for-macos-easy-video-creation-tool/"><u>Updated 2024 Approved Video Editor for macOS Easy Video Creation Tool</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-dissecting-vr-a-modern-cinematic-tech/"><u>[New] Dissecting VR A Modern Cinematic Tech</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-infinix-gt-10-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Infinix GT 10 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/explore-our-identity-learn-about-the-people-behind-our-success-story/"><u>Explore Our Identity: Learn About the People Behind Our Success Story</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/get-your-adobe-files-unlocked-secure-immediate-drm-release/"><u>Get Your Adobe Files Unlocked: Secure Immediate DRM Release</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-bypass-drm-protection-in-topaz-publications-unlocking-your-e-books-and-ebooks/"><u>How to Bypass DRM Protection in Topaz Publications: Unlocking Your E-Books and eBooks</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-convert-your-protected-kobo-ebooks-into-unrestricted-epub-format/"><u>How to Convert Your Protected Kobo eBooks Into Unrestricted EPUB Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-install-the-mobile-version-of-kindle-on-your-device-a-step-by-step-guide/"><u>How to Install the Mobile Version of Kindle on Your Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-read-ebooks-in-epub-format-on-your-iphone-tips-for-iphones-6-5-and-4/"><u>How to Read eBooks in ePub Format on Your iPhone: Tips for iPhones 6, 5 & 4</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>In 2024, Swiftly Start Sharing Joy Installing the iFunny Meme App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-calming-chorus-proven-voices-aid-sleep/"><u>In 2024, The Calming Chorus Proven Voices Aid Sleep</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-forceful-removal-of-directories-in-windows-10-and-11-with-revo-software/"><u>Step-by-Step Tutorial for Forceful Removal of Directories in Windows 10 & 11 with Revo Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-blue-screen-of-death-in-helldivers-game-v2/"><u>Troubleshooting and Fixing Blue Screen of Death in Helldivers Game V2</u></a></li>
 </ul></div>
 

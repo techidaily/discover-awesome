@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Enjoying Library Ebooks via OverDrive on the Kindle Paperwhite Device
-date: 2024-09-27T19:05:56.324Z
-updated: 2024-09-30T16:04:30.635Z
+date: 2024-10-02T21:04:26.227Z
+updated: 2024-10-06T01:22:35.303Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd3a27b7e0b7d3fec1332bd02.png
@@ -43,10 +43,10 @@ Download Adobe Digital Edition 4.5 for [_Macintosh (23.2MB)_](http://download.ad
 Download Adobe Digital Edition 4.5 for [_Windows (8.13MB)_](http://download.adobe.com/pub/adobe/digitaleditions/ADE%5F4.5%5FInstaller.exe)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Create an Adobe ID and Authorize Computer
@@ -56,26 +56,26 @@ If this is your first time use ADE, you need to create an Adobe ID and authorize
 ![authorize-ade](http://www.epubor.com/images/uppic/authorize-Adobe-Digital-Editions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** You can authorize your computer without Adobe ID. However, this means you can only read the ebook on your computer. So in order to read it on Kindle paperwhite, I would recommend you authorize with Adobe ID.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open acsm file and get the ePub or PDF eBook.
 
 Go to [Overdrive.com](https://www.overdrive.com/) and select the title you want to read, choose the epub or pdf format to download. Normally, you will get the acsm file when the book is drm protected.
 
  If you have set ADE as the default program to open acsm extension file when installing ade, then you can open the acsm file with ade directly. If not, right click the acsm file and select open with >> Adobe Digital Editions. Or you can open ADE first, click file >> add to library. And select the acsm file to open it in ADE. Then ADE will begin to download the actual epub or pdf book.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Convert ePub or PDF to Kindle format with Epubor Ultimate
 
@@ -88,13 +88,6 @@ Download Epubor Ultimate for free
 When open Ultimate converter, it will **automatically detect the ADE's eBooks**. First, drag the overdrive eBooks to the main interface, the ePub or PDF book will be decrypted if it has drm protection. Then choose a eBook's output format, here you should choose mobi or azw3\. At last, click convert button to get an new Kindle book.
 
 ![ultimate-converter](http://www.epubor.com/images/uppic/ultimate-converter-screenshot.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** The Epubor Ultimate will save the original Overdrive ebook on you ADE folder and create a new kindle format ebook, click "folder" at the bottom right corner to get the new book.
 
@@ -111,6 +104,13 @@ Suggested Reading
 * [How to Borrow and Listen to OverDrive Audiobooks](https://tools.techidaily.com/epubor/products/)
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -202,16 +202,19 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-3dr-a-solo-traverse-into-future-tech-world/"><u>[New] '3DR' A Solo Traverse Into Future Tech World</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-youtube-savvy-unified-streams-for-enthusiasts/"><u>[New] 2024 Approved Maximize YouTube Savvy Unified Streams for Enthusiasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-abcs-of-aspect-ratio-a-guide-to-twitter-videos/"><u>[New] In 2024, The ABCs of Aspect Ratio A Guide to Twitter Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-joke-junction-ultimate-free-comic-templates/"><u>[Updated] Joke Junction Ultimate Free Comic Templates</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/av-audi-dvd2024/"><u>「高級スポーツカーAVコピー保護解除 - Audi DVD再生技術2024年版」</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1-best-techniques-for-reducing-file-size-of-mov-videos/"><u>1. Best Techniques for Reducing File Size of MOV Videos</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effortless-transition-from-dvd-to-digital-media-compatible-with-windows-macos-and-smartphonestablets/"><u>Effortless Transition From DVD to Digital Media: Compatible with Windows, MacOS, and Smartphones/Tablets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/professional-voice-recording-made-easy-with-ipad-for-2024/"><u>Professional Voice Recording Made Easy with iPad for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-rated-full-and-selective-screen-capture-tool-for-windows-10-8-and-7-users/"><u>Top-Rated Full and Selective Screen Capture Tool for Windows 10, 8 & 7 Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/ultimate-list-must-follow-igtv-creators/"><u>Ultimate List Must-Follow IGTV Creators</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/k-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance-for-2024/"><u>Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-examining-the-huawei-p10-camera-and-display-capabilities/"><u>[New] Examining the Huawei P10 Camera and Display Capabilities</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-inshot-guide-successfully-load-tracks-into-videos-for-2024/"><u>[Updated] InShot Guide Successfully Load Tracks Into Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-instagram-photos-with-creative-borders/"><u>[Updated] Transform Your Instagram Photos with Creative Borders</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/bouncing-back-stronger-how-failure-fuels-growth-and-achievement/"><u>Bouncing Back Stronger: How Failure Fuels Growth and Achievement</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-top-5-no-cost-reader-programs-for-your-mac-computer/"><u>Discover the Top 5 No-Cost Reader Programs for Your Mac Computer</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-these-5-superior-browsers-as-perfect-substitutes-for-your-kindle-fire-device/"><u>Discover These 5 Superior Browsers as Perfect Substitutes for Your Kindle Fire Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-now-premium-zero-cost-spanish-english-word-converter-for-kindle-devices/"><u>Download Now: Premium, Zero Cost Spanish-English Word Converter for Kindle Devices</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-the-ultimate-no-cost-drm-ebook-liberator-software-for-mac-users/"><u>Download the Ultimate No-Cost DRM Ebook Liberator Software for Mac Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/drm-free-conversion-how-to-unlock-your-ebooks-in-various-formats/"><u>DRM-Free Conversion: How to Unlock Your Ebooks in Various Formats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-40i-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Hot 40i Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-yuva-3-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Yuva 3 Pro FRP Bypass</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-adept-vlc-playback-and-capture-techniques/"><u>In 2024, Adept VLC Playback & Capture Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-audios-with-paused-youtube-videos-in-google-chrome-or-mozilla-firefox/"><u>Troubleshooting Persistent Audios with Paused YouTube Videos in Google Chrome or Mozilla Firefox</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-choosing-the-perfect-network-attached-storage-nas-device-for-your-needs/"><u>Ultimate Guide to Choosing the Perfect Network Attached Storage (NAS) Device for Your Needs</u></a></li>
 </ul></div>
 

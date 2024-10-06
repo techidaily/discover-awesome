@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Withings Body Scan Analysis: The Ultimate Health Tracking Device for Serious Athletes"
-date: 2024-09-19T23:24:36.845Z
-updated: 2024-09-26T02:24:01.631Z
+date: 2024-10-03T20:42:54.741Z
+updated: 2024-10-06T00:28:27.372Z
 tags:
   - product-reviews
 categories:
@@ -67,21 +67,22 @@ Body Scan connected health station helps users get a handle on health with the a
  The things that set it apart from the Withings Comp, the next closest scale in price, are its six-lead ECG for atrial fibrillation detection and fat and muscle body segmentation. It also has a larger color display and a USB-C rechargeable battery instead of three AAA batteries. However, the price jump between the two is significant at just over $200 at retail prices.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Body Segmentation Could Have Been the Star
 
 ![close up of the color display on the Withings Body Scan](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/close-up-of-the-color-display-on-the-withings-body-scan.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -92,13 +93,6 @@ Tyler Hayes / How-To Geek
  Using the Body Scan, I could see some of the fat and muscle segmentations displayed in the app. It was fascinating to see the different percentages assigned to areas of my body. Unfortunately, I found it less actionable than I thought I would. Nine percent fat in my legs? So what? The app did give each segment a comparison to other Withings users like me, maybe in an attempt to provide some context. But again, it was much less incentivizing than I would have guessed beforehand.
 
  I also felt that way about the Electrodermal Activity Score (EDA), which provides an overview of your nervous system's sweat glands. This metric can be a flag for the effects of emotions on your body and, looked at over the long term, stress. In the short term, my results fell squarely in the middle of the normal range, providing little incentive to care about it. I'll have to wait to see how I feel about this metric over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Having an ECG on a Scale Makes Sense
 
@@ -145,10 +139,10 @@ Close
 ![Withings Body Scan on a tile floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-on-a-tile-floor.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
@@ -160,10 +154,10 @@ Tyler Hayes / How-To Geek
 ![Body Scan scale](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/gftju-3p.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Withings Body Scan
@@ -209,21 +203,24 @@ Body Scan connected health station helps users get a handle on health with the a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-essential-online-repositories-12-sites-with-free-photography-samples/"><u>[New] In 2024, Essential Online Repositories - 12 Sites with Free Photography Samples</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1-best-techniques-for-reducing-file-size-of-mov-videos/"><u>1. Best Techniques for Reducing File Size of MOV Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-analysis-the-hottest-2023-trends/"><u>2024 Approved Infographic Analysis The Hottest 2023 Trends</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimizing-your-podcasts-the-seo-blueprint/"><u>2024 Approved Optimizing Your Podcasts The SEO Blueprint</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/descubra-os-principais-gravadores-de-dvd-livres-idealizados-para-windows-1011-as-dez-opcoes-essenciais/"><u>Descubra Os Principais Gravadores De DVD Livres Idealizados Para Windows 10/11: As Dez Opções Essenciais!</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effortless-conversion-from-wmv-to-mp3-files-on-pc-and-mac/"><u>Effortless Conversion From WMV to MP3 Files on PC & Mac</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effortless-transition-from-dvd-to-digital-media-compatible-with-windows-macos-and-smartphonestablets/"><u>Effortless Transition From DVD to Digital Media: Compatible with Windows, MacOS, and Smartphones/Tablets</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/guida-rapida-alla-conversione-webm-in-mp4-per-windows-1011-e-macos-ottimo-quality/"><u>Guida Rapida Alla Conversione WebM in MP4 per Windows 10/11 E macOS - Ottimo Quality</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-c32-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia C32 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-apex-guide-to-selecting-premium-3ds-pc-experiences/"><u>In 2024, Apex Guide to Selecting Premium 3Ds PC Experiences</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-bargains-what-to-expect-from-amazon-prime-day-2024/"><u>Navigating the Bargains: What to Expect From Amazon Prime Day 2024?</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-modern-guide-to-mkv-audio-removal-update-users-for-2024/"><u>New Modern Guide to MKV Audio Removal Update Users for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-smoothing-out-shaky-videos-across-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Smoothing Out Shaky Videos Across PC, Mac, Android & iOS Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tech-tutorial-how-to-seamlessly-upload-your-iphones-4k-footage-to-your-windows-1011-pc/"><u>Tech Tutorial: How to Seamlessly Upload Your iPhone's 4K Footage to Your Windows 10/11 PC</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-rated-full-and-selective-screen-capture-tool-for-windows-10-8-and-7-users/"><u>Top-Rated Full and Selective Screen Capture Tool for Windows 10, 8 & 7 Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-witcher-3-wild-hunt-startup-issues/"><u>Troubleshooting Steps for Resolving 'Witcher 3: Wild Hunt' Startup Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-ultimate-checklist-for-fpv-drone-propeller-selection/"><u>[New] 2024 Approved The Ultimate Checklist for FPV Drone Propeller Selection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-quirky-qs-how-to-save-funny-tweets-as-gifs-for-2024/"><u>[New] Quick, Quirky Qs How To Save Funny Tweets as GIFs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-avoiding-darkness-with-lightrooms-dynamic-range-technique/"><u>[Updated] Avoiding Darkness with Lightroom’s Dynamic Range Technique</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-vlog-confidently-like-popular-youtubers/"><u>2024 Approved How to Vlog Confidently Like Popular YouTubers?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v27-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-premium-quality-with-the-samsung-galaxy-tab-s7-an-ideal-match-for-devoted-android-users/"><u>Experience Premium Quality with the Samsung Galaxy Tab S7 - An Ideal Match for Devoted Android Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-convert-pdf-files-to-jpg-format-at-no-cost-using-mac-software/"><u>How to Convert PDF Files to JPG Format at No Cost Using Mac Software</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-move-your-itunes-secured-movie-files-onto-a-kindle-fire-or-kobo-ereader/"><u>How to Move Your iTunes Secured Movie Files Onto a Kindle Fire or Kobo eReader</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ignite-your-brands-success-with-proven-fire-branded-marketing-strategies/"><u>Ignite Your Brand's Success with Proven Fire-Branded Marketing Strategies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-razer-drivers-step-by-step-guide-for-windows-11-8-7-and-xpvista-users/"><u>Installing Razer Drivers - Step-by-Step Guide for Windows 11, 8, 7 & XP/Vista Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/key-points-explored-a-deep-dive-into-understanding-kindles-whispersync-technology/"><u>Key Points Explored: A Deep Dive Into Understanding Kindle's Whispersync Technology</u></a></li>
+<li><a href="https://os-tips.techidaily.com/lost-iphone-discover-swift-solutions-with-this-complete-search-tutorial/"><u>Lost iPhone? Discover Swift Solutions with This Complete Search Tutorial!</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mastering-the-use-of-calibre-a-guide-to-duplicating-ebook-data-and-settings/"><u>Mastering the Use of Calibre: A Guide to Duplicating Ebook Data and Settings</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mejore-su-experiencia-con-amazon-kindle-eliminando-drm-de-archivos-azw/"><u>Mejore Su Experiencia Con Amazon Kindle Eliminando DRM De Archivos .AZW</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/share-your-reading-insights-transferring-highlights-from-kindle-books-to-pdf-format/"><u>Share Your Reading Insights: Transferring Highlights From Kindle Books to PDF Format</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/sharing-the-joy-of-reading-a-guide-to-passing-on-kindle-titles/"><u>Sharing the Joy of Reading: A Guide to Passing on Kindle Titles</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/showdown-of-storytelling-platforms-google-play-books-vs-amazon-audible-which-wins/"><u>Showdown of Storytelling Platforms: Google Play Books Vs. Amazon Audible - Which Wins?</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-not-launching-heres-how-you-can-get-it-running-again/"><u>Team Fortress Not Launching? Here's How You Can Get It Running Again!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/wirecast-versus-obs-which-broadcasting-tool-reigns-supreme/"><u>Wirecast Versus OBS Which Broadcasting Tool Reigns Supreme?</u></a></li>
 </ul></div>
 

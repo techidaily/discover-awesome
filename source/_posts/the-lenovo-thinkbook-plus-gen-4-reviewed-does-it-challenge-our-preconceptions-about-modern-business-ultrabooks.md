@@ -1,7 +1,7 @@
 ---
 title: "The Lenovo ThinkBook Plus Gen 4 Reviewed: Does It Challenge Our Preconceptions About Modern Business Ultrabooks?"
-date: 2024-09-19T17:05:39.293Z
-updated: 2024-09-25T22:49:08.483Z
+date: 2024-10-04T00:21:15.547Z
+updated: 2024-10-05T23:43:18.360Z
 tags:
   - product-reviews
 categories:
@@ -98,6 +98,19 @@ Expand
 
 ![The OLED screen of the Lenovo ThinkBook Plus Gen 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-back-facingjpg_53189355796_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Joe Robinson / How-To Geek
 
  As a [hybrid laptop](https://tech-recovery.techidaily.com/solving-the-reset-failed-there-was-an-error-message-on-windows/), the ThinkBook Plus Gen 4 trends a bit toward the heavy side. Folded up, it doesn’t feel strenuous to hold and carry around, but it definitely feels like you’re holding two screens, one on top of the other. The front-facing display is a 13.3-inch OLED, while a 12-inch color E-Ink panel hangs out underneath. The catch? They share the same housing, which leads us to perhaps the most noteworthy feature of the ThinkBook—the screens rotate.
@@ -112,13 +125,6 @@ Joe Robinson / How-To Geek
 
 ![A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-webcam-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam
 
  There’s a 1080p webcam at the top of both the OLED screen and another lens on the E-Ink display, both of which deliver decent image quality for all your video-conferencing needs. Yes, you'll be able to take video calls using the E-Ink panel, although I'm guessing most folks will opt for the OLED.
@@ -128,6 +134,13 @@ A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam
 ##  Display(s): The E-Ink Screen is Haunted
 
 ![The Lenovo ThinkBook Plus Gen 4 being used as a tablet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-tablet-modejpg_53188636212_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
 
@@ -142,10 +155,10 @@ Joe Robinson / How-To Geek
 ![A person taking notes on the Lenovo ThinkBook Plus Gen 4's e-ink display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-eink-display-tablet-mode-in-usejpg_53189718678_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
@@ -166,19 +179,6 @@ Joe Robinson / How-To Geek
 
 ![The Lenovo ThinkBook Plus Gen 4's stylus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-stylus-with-aaa-batteryjpg_53189424009_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Joe Robinson / How-To Geek
 
  In terms of configurations, you’ll have the choice of a 13th Gen Intel i5 or Core i7 processor (my test unit) for your ThinkBook Plus Gen 4\. The laptop runs [Windows 11 Pro](https://some-skills.techidaily.com/updated-unveiling-the-pathway-to-high-quality-images-on-deal/), with 16GB of RAM soldered to the motherboard. Both CPU versions also come with 512GB of internal storage.
@@ -188,10 +188,10 @@ Joe Robinson / How-To Geek
 ![The Lenovo ThinkBook Plus Gen 4's OLED screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-front-facingjpg_53189357016_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Joe Robinson / How-To Geek
@@ -219,10 +219,10 @@ Joe Robinson / How-To Geek
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
@@ -248,19 +248,16 @@ The Lenovo ThinkBook Plus Gen 4 is fun to use, but beyond its arresting OLED dis
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-strategies-for-penning-persuasive-vlogger-content/"><u>[New] In 2024, Strategies for Penning Persuasive Vlogger Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>[New] Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-pro-level-video-conferencing-picking-the-best-5-recorders/"><u>[Updated] Pro-Level Video Conferencing Picking the Best 5 Recorders</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1-multicam-pro-advanced-live-streaming-and-remote-camera-solutions/"><u>1. MultiCam Pro: Advanced Live Streaming and Remote Camera Solutions</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/efficiently-convert-videos-to-hevc-format-using-handbrake-complete-encoder-setup-tutorial/"><u>Efficiently Convert Videos to HEVC Format Using Handbrake – Complete Encoder Setup Tutorial</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/entschlussele-das-ratsel-des-kopierens-geschutzter-dvds-entdeckung-der-besten-7-losungsstrategien/"><u>Entschlüssele Das Rätsel Des Kopierens Geschützter DVDs: Entdeckung Der Besten 7 Lösungsstrategien</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-c55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C55 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/iphonecd3/"><u>IPhoneで直接CDから音楽を移せる3つの手順専用ガイド</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/premiere-pro-202n-crashes-resolved-fix-your-hanging-issues-now/"><u>Premiere Pro 202N Crashes Resolved - Fix Your Hanging Issues Now</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-rated-gratis-uhd-streaming-application-with-h265hevc-compatibility-for-pcs-windows-11-macos-update-2020/"><u>Top-Rated Gratis UHD Streaming Application with H.265/HEVC Compatibility for PCs (Windows 11, macOS) - Update 2020</u></a></li>
-<li><a href="https://some-skills.techidaily.com/up-close-and-personal-tips-for-sharper-videos-on-videoleap-for-2024/"><u>Up Close & Personal Tips for Sharper Videos on Videoleap for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-and-macaitop10/"><u>Windows & Mac專用頂級免費AI影片擴充器TOP10清單</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>[New] 2024 Approved Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aqtime-media-center-diverse-audio-video-options/"><u>[Updated] Aqtime Media Center Diverse Audio, Video Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tuning-into-iphones-sound-scenarios/"><u>2024 Approved Tuning Into iPhone's Sound Scenarios</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-life-to-your-dead-laptop-battery-in-no-time-expert-tips-inside/"><u>Bring Back Life to Your Dead Laptop Battery in No Time - Expert Tips Inside</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-top-5-no-cost-reader-programs-for-your-mac-computer/"><u>Discover the Top 5 No-Cost Reader Programs for Your Mac Computer</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-these-5-superior-browsers-as-perfect-substitutes-for-your-kindle-fire-device/"><u>Discover These 5 Superior Browsers as Perfect Substitutes for Your Kindle Fire Device</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-now-premium-zero-cost-spanish-english-word-converter-for-kindle-devices/"><u>Download Now: Premium, Zero Cost Spanish-English Word Converter for Kindle Devices</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/download-the-ultimate-no-cost-drm-ebook-liberator-software-for-mac-users/"><u>Download the Ultimate No-Cost DRM Ebook Liberator Software for Mac Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-selling-through-influence-5-key-strategies-on-instagram/"><u>In 2024, The Art of Selling Through Influence 5 Key Strategies on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-look-at-inshot-video-editing-powerhouse/"><u>In-Depth Look at InShot Video Editing Powerhouse?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simple-and-stylish-slide-show-toolkit-for-macos-users-infuse-your-images-with-tunes/"><u>Simple and Stylish Slide Show Toolkit for macOS Users: Infuse Your Images with Tunes</u></a></li>
 </ul></div>
 
