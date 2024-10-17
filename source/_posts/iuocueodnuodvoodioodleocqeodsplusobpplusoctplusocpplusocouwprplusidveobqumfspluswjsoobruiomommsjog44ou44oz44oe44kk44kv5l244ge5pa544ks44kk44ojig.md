@@ -1,7 +1,7 @@
 ---
 title: "スマートフォンでシェア可能な音声の記録: ピンマイク使い方ガイド"
-date: 2024-10-06T20:02:10.436Z
-updated: 2024-10-11T21:52:35.182Z
+date: 2024-10-13T17:55:08.002Z
+updated: 2024-10-17T19:15:14.263Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca4fb179ccb3f421fcf0aa55a.jpg
@@ -45,10 +45,10 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3.** There are two ways to mute the video.
@@ -56,6 +56,13 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
 
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
 
@@ -101,10 +108,10 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 4\. Go to Share > File to export your video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Mute a Video on iPhone and Android?
@@ -123,13 +130,6 @@ How to mute audio in a video in Google Photos:
 **Step 4.** You can do additional edits like cropping and adjusting the video. Then, press “Save copy” to save the video without audio.
 
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### • InShot
 
@@ -158,21 +158,7 @@ Many online video editors can help you remove background sound from a video. How
 
 ![Remove Audio from Video Online Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-8.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Common Ways to Mute a Video
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### • Clipchamp
 
@@ -181,20 +167,6 @@ Clipchamp is a free non-linear video editor that allows users to mute, trim, com
 → Learn [how to detach audio from video with Clipchamp](https://clipchamp.com/en/blog/separate-audio-video/) 
 
 ![Clipchamp Mute Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-9.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### • Adobe Premiere Pro
 
@@ -214,10 +186,17 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • VSDC Video Editor
@@ -228,7 +207,21 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remove Audio from Video FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q1\. Can I remove the audio from an iPhone video?
 
@@ -242,6 +235,13 @@ Firstly, import your video into the editing software and separate the audio from
  Check the complete guide on [how to remove certain audio from video >>](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q3\. How to mute a video on different apps?
 
@@ -286,20 +286,19 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-gamers-edition-obs-studio-streaming/"><u>2024 Approved Gamers' Edition OBS Studio Streaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mirrorless-4k-cameras-top-10-list-unveiled/"><u>2024 Approved Mirrorless 4K Cameras Top 10 List Unveiled</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725287894697-5-2024/"><u>前 5 名的免費直播解禁鎖軟件 - 2024年最新選擇指南</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/comment-configurer-le-streaming-sur-un-nas-synology-ou-qnap-avec-des-dvd/"><u>Comment Configurer Le Streaming Sur Un NAS Synology Ou QNAP Avec Des DVD</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/como-encontrar-os-maiores-programas-livres-para-ripagem-e-copia-de-dvds-sem-custo-top-10-lista-detalhada/"><u>Como Encontrar Os Maiores Programas Livres Para Ripagem E Cópia De DVDs Sem Custo - Top 10 Lista Detalhada</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone SE Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-minecraft-recording-on-mac-a-step-by-step-guide/"><u>In 2024, Mastering Minecraft Recording on Mac A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-proven-techniques-to-store-your-mov-videos-on-windows-10/"><u>In 2024, Proven Techniques to Store Your .mov Videos on Windows 10</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/itunes-digital-restrictions-lifted-easy-guide-to-copy-and-move-your-media/"><u>ITunes Digital Restrictions Lifted – Easy Guide to Copy & Move Your Media</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/master-your-media-with-digiarty-the-ultimate-guide-to-dvd-to-video-software-excellence/"><u>Master Your Media with Digiarty: The Ultimate Guide to DVD-to-Video Software Excellence</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/realisez-une-compression-video-avi-optimale-sur-windows-nage-fleuve10-methodes-rapides-efficaces-et-gratuites/"><u>Réalisez Une Compression Vidéo AVI Optimale Sur Windows Nage-Fleuve(10) - Méthodes Rapides, Efficaces Et Gratuites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-bounds-of-communication-with-chatgpt-overcoming-its-character-cap/"><u>The Bounds of Communication with ChatGPT: Overcoming Its Character Cap</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/visual-instructions-for-setting-up-handbrakes-libdvdcss-library-on-mac-and-windows-11/"><u>Visual Instructions for Setting up HandBrake's Libdvdcss Library on Mac and Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/win11-optimization-addressing-excessive-provider-host-usage/"><u>Win11 Optimization: Addressing Excessive Provider Host Usage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-perfecting-the-art-of-facebook-live-recording/"><u>[New] 2024 Approved Perfecting the Art of Facebook Live Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>[New] Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beginners-blueprint-for-youtube-income-growth/"><u>[New] In 2024, Beginner's Blueprint for YouTube Income Growth</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-free-guide-simple-steps-to-restore-data-from-damaged-hdd-without-stress/"><u>1. Free Guide: Simple Steps to Restore Data From Damaged HDD Without Stress</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/5pei5a2y44gu5lqi57se6yoo5yig44ks5yq55p6c55qe44gr44kv44ot44o844ol44oz44kw44o75asj5pu044gz44kl5pa55rov/"><u>既存の予約部分を効果的にクローニング・変更する方法</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/come-ripristinare-unintera-cartella-cancellata-e-i-file-mancanti-nel-cestino-tecniche-efficaci/"><u>Come Ripristinare Un'intera Cartella Cancellata E I File Mancanti Nel Cestino: Tecniche Efficaci</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comprehensive-step-by-step-tutorial-restoring-your-hp-laptop-running-windows-10-from-boot-simplified-and-expert-approach/"><u>Comprehensive Step-by-Step Tutorial: Restoring Your HP Laptop Running Windows 10 From Boot - Simplified and Expert Approach</u></a></li>
+<li><a href="https://media-tips.techidaily.com/hassle-free-guide-converting-media-files-for-android-touchscreen-gadgets/"><u>Hassle-Free Guide: Converting Media Files for Android Touchscreen Gadgets</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-quickly-resolve-common-errors-in-windows-10-and-11-via-command-line-tools/"><u>How to Quickly Resolve Common Errors in Windows 10 and 11 via Command Line Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in Word 2003</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-nfl-20-for-windows-overcoming-crashes-and-enhancing-performance/"><u>Madden NFL '20 for Windows: Overcoming Crashes and Enhancing Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-computer-sound-failures-in-minutes-with-these-tips/"><u>Solve Computer Sound Failures in Minutes with These Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-tutorial-on-securely-saving-humor-from-siez-with-a-reliable-downloader-tool/"><u>Step-by-Step Tutorial on Securely Saving Humor From ˈsiːɡəz with a Reliable Downloader Tool</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/tutorial-mudah-dan-rupa-lengkap-untuk-melakukan-pemulihan-file-zip-yang-hapus-di-windows-1011-tanpa-belanja/"><u>Tutorial Mudah Dan Rupa Lengkap Untuk Melakukan Pemulihan File ZIP Yang Hapus Di Windows 10/11 Tanpa Belanja</u></a></li>
 </ul></div>
 
