@@ -1,7 +1,7 @@
 ---
 title: How to Correct Sudden Errors Encountered on Property Management Pages
-date: 2024-10-16T16:10:30.556Z
-updated: 2024-10-23T16:10:28.527Z
+date: 2024-10-28T01:56:42.542Z
+updated: 2024-10-29T07:39:50.850Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8887df92f9a6ef29a9a0f4d11045d6b1c0399eebd3f27cb0d07dfb8b59734a92.jpg
@@ -62,28 +62,15 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -100,19 +87,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -131,16 +105,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -152,10 +120,17 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -179,10 +154,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -215,6 +190,13 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -230,20 +212,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-all-about-making-gifs-into-stickers-the-ultimate-guide-for-whatsapp-discord-and-telegram-users/"><u>[New] All About Making GIFs Into Stickers The Ultimate Guide for WhatsApp, Discord & Telegram Users</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-transforming-ordinary-footage-to-ig-masterpieces/"><u>[New] Transforming Ordinary Footage to IG Masterpieces</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-broadcast-power-play-which-livestream-tool-should-you-use-in-2024/"><u>[Updated] Broadcast Power Play Which Livestream Tool Should You Use, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-5-methods-for-capturing-sound-in-windows-11/"><u>[Updated] Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1728462806363-windows-11/"><u>如何顺利过渡到Windows 11：专业版数据转换全面指导</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/engage-audiences-with-free-video-teasers/"><u>Engage Audiences with Free Video Teasers</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/escolhendo-entre-as-edicoes-do-aomei-backupper-uma-analise-detalhada/"><u>Escolhendo Entre as Edições Do AOMEI Backupper: Uma Análise Detalhada.</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/fast-fixes-retrieving-lost-data-on-an-unresponsive-windows-10-computer/"><u>Fast Fixes: Retrieving Lost Data on an Unresponsive Windows 10 Computer</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/kompletter-ssd-wechsel-ohne-neukonfiguration-fur-windows-111087-benutzer/"><u>Kompletter SSD-Wechsel Ohne Neukonfiguration Für Windows 11/10/8/7 Benutzer</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/portable-backup-software-pour-ssd-t5-de-samsung-sous-windows-facile-a-installer/"><u>Portable Backup Software Pour SSD T5 De Samsung Sous Windows - Facile À Installer</u></a></li>
-<li><a href="https://win-dash.techidaily.com/realtek-sound-card-drivers-fast-and-smooth-update-for-windows-10/"><u>Realtek Sound Card Drivers - Fast & Smooth Update for Windows 10</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/schritt-fur-schritt-anleitung-zum-zurucksetzen-von-windows-11-bei-steckbriefen-wie-1-34-64-und-99/"><u>Schritt-Für-Schritt Anleitung Zum Zurücksetzen Von Windows 11 Bei Steckbriefen Wie 1%, 34%, 64% Und 99%</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-microphone-problems-during-zoom-meetings-a-complete-guide/"><u>Solve Your PC's Microphone Problems During Zoom Meetings - A Complete Guide</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/troubleshooting-tip-overcoming-issues-when-file-is-not-found-by-your-computer/"><u>Troubleshooting Tip: Overcoming Issues When File Is Not Found By Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>[New] Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[New] In 2024, Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-turn-on-google-meet-grids-to-see-all-attendees/"><u>[New] Turn On Google Meet Grids to See All Attendees</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-snips-on-mac-top-5-picks-unveiled/"><u>[Updated] 2024 Approved Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-itop-screen-recorder-essential-or-excessive-in-2024/"><u>[Updated] ITop Screen Recorder - Essential or Excessive, In 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/44cm576o44gx44gp5yplusk44gn6imv44gn5pmc5luj44gr6kal44gb44kl77yb5pig5yop44ks44ov44kj44or44og6ako5yqg5bel44og44od44kv6kej6kqs44cn/"><u>「美しく古き良き時代に見せる！映像をフィルム風加工テック解説」</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/5asa5pig5yop5yq55p6cic0g55s76z2i5lik44gn6ksh5pww44gu5yuv55s75zcm5pmc5yan55sf5oqa6kgt/"><u>多映像効果 - 画面上で複数の動画同時再生技術</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/access-online-cinema-how-to-use-google-drive-for-movie-downloads-and-views/"><u>Access Online Cinema: How To Use Google Drive For Movie Downloads & Views</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/commencing-a-community-benefit-contest-online-for-2024/"><u>Commencing a Community Benefit Contest Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722893582532-disable-the-autoplay-function-in-apple-music-effortlessly/"><u>Disable the Autoplay Function in Apple Music Effortlessly</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726029475178-dvddvd/"><u>DVD音声のみ再生テクニック：DVDから高品質な音を取り出してください</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726028669018-flashhtml5/"><u>FlashビデオからHTML5へ - 円熟した変換手順解説</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-laptops-touch-pad-up-and-running-again-tips-for-windows-1187-users/"><u>Get Your Laptop's Touch Pad Up & Running Again! Tips for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726029198035-gif/"><u>GIFへの素晴らしい画像変換アプリ紹介</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-track-featured-snippets-by-link-assistant-rank-tracker-rank-tracker/"><u>How to track featured snippets?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726029361326-mp3/"><u>Mp3曲が再生できない場合、スマホの解決策と対策</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726027674999-pc/"><u>PCにおけるスカパー!オンデマンド番組の録画・保存ガイド</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/remedying-unexpected-oneself-display-during-online-interactions-for-2024/"><u>Remedying Unexpected Oneself Display During Online Interactions for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1726028692647-vimeo/"><u>Vimeo ビデオ・生放送をクリアな解像度でキャプチャするためのテクニック</u></a></li>
 </ul></div>
 
