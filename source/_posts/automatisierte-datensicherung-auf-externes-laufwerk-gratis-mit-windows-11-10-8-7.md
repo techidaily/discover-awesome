@@ -1,7 +1,7 @@
 ---
 title: Automatisierte Datensicherung Auf Externes Laufwerk - Gratis Mit Windows 11, 10, 8, 7
-date: 2024-11-07T01:54:03.776Z
-updated: 2024-11-13T04:03:52.927Z
+date: 2024-11-17T18:50:33.553Z
+updated: 2024-11-23T08:07:20.240Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de655763795273378c61959dacb46a.jpg
@@ -24,9 +24,17 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -44,10 +52,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -55,6 +60,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -71,6 +80,10 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -94,6 +107,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -111,13 +128,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -137,6 +147,10 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -150,13 +164,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -183,13 +190,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -245,13 +245,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -272,13 +265,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -294,24 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-skype-recording-excellence-the-years-leading-tools/"><u>[New] Skype Recording Excellence The Year's Leading Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-dive-into-todays-top-8-viral-video-phenomena-for-2024/"><u>[Updated] Dive Into Today’s Top 8 Viral Video Phenomena for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/mp4dvdwindows11/"><u>無料でMP4動画をDVDに簡単書き込むWindows11特化ツールチョイス</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/approaches-to-mend-obs-fullscreen-errors-for-2024/"><u>Approaches to Mend OBS Fullscreen Errors for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-crusaders-youtube-stars-serving-up-deliciousness-for-2024/"><u>Cooking Crusaders YouTube Stars Serving Up Deliciousness for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/dinner-grilled-shrimp-skewers-with-roasted-sweet-potatoes-and-asparageboat/"><u>Dinner: Grilled Shrimp Skewers with Roasted Sweet Potatoes and Asparageboat</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/easy-steps-to-convert-dvd-chapters-from-vob-to-mp4-format-for-windows-1011-users-and-mac-owners-a-step-by-step-tutorial/"><u>Easy Steps to Convert DVD Chapters From VOB to MP4 Format for Windows 10/11 Users & Mac Owners: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevate-your-viewing-experience-on-a-shoestring-petcubes-hd-petcam/"><u>Elevate Your Viewing Experience on a Shoestring - Petcube's HD Petcam</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/exclusive-oem-alliance-with-digiarty-software-your-pathway-to-tailored-digital-solutions/"><u>Exclusive OEM Alliance with Digiarty Software: Your Pathway to Tailored Digital Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-insignia-usb-and-ethernet-cable-converters-newest-software-here/"><u>Get Your Insignia USB and Ethernet Cable Converter's Newest Software Here!</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/gratuitamente-scarica-imgburn-per-la-masterizzazione-di-disco-protetto-da-copia-con-formato-iso/"><u>Gratuitamente Scarica ImgBurn per La Masterizzazione Di Disco Protetto Da Copia Con Formato ISO</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-plus-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s Plus to iPad? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-15-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 15 without Security Questions?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-use-youtube-analytics-to-grow-your-channel-in-2024/"><u>How to Use YouTube Analytics to Grow Your Channel, In 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-v27e-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo V27e Unlock Without Password</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/manual-de-uso-eficiente-para-windows-y-dvd-como-mejorar-su-experiencia-con-winxdvd/"><u>Manual De Uso Eficiente Para Windows Y DVD: Cómo Mejorar Su Experiencia Con WinXDVD</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/riproduci-i-tuoi-film-in-dvd-senza-costi-utilizzando-il-ripper-gratuito-del-dvd-piu-recente-dvd-copy-protection/"><u>Riproduci I Tuoi Film in DVD Senza Costi Utilizzando Il Ripper Gratuito Del DVD Più Recente (DVD Copy Protection)</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/simple-steps-removing-your-custom-iphone-ringtone-in-just-a-few-clicks/"><u>Simple Steps: Removing Your Custom Iphone Ringtone in Just a Few Clicks</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-recommended-handbrake-alternatives-von-2021-fur-optimales-film-und-videokonvertieren/"><u>Top-Recommended HandBrake Alternatives Von 2021 Für Optimales Film- Und Videokonvertieren</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tips-to-counteract-obs-fullscreen-woes/"><u>[New] Tips to Counteract OBS Fullscreen Woes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>[Updated] 2024 Approved A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-crafting-news-end-credits-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting News End Credits A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1728506002482-apple-id/"><u>Apple IDにおける二要素認証のセットアップガイド</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-pathway-to-premium-gopro-accessories-for-2024/"><u>Beginner’s Pathway to Premium GoPro Accessories for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/comment-activer-automatiquement-la-sauvegarde-de-fichiers-via-une-commande-wbadmin-en-tlf/"><u>Comment Activer Automatiquement La Sauvegarde De Fichiers via Une Commande WBAdmin en TLF</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ejecutar-modo-invitado-windows-10-y-11-con-eficacia-guia-completa/"><u>Ejecutar Modo Invitado Windows 10 Y 11 Con Eficacia: Guía Completa</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-use-norton-ghost-with-various-versions-of-windows-os-11-10-8-and-aturating-the-systems-performance-and-preventing-it-from-overheating-or-shutting-dow159/"><u>How to Use Norton Ghost with Various Versions of Windows OS (11, 10, 8 & Aturating the System's Performance and Preventing It From Overheating or Shutting Down Due to High Temperatures.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a56s-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A56s 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-airpods-windows-11-connectivity-challenges-the-latest-fixes/"><u>Overcome Your AirPods-Windows 11 Connectivity Challenges - The Latest Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pova-5-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pova 5</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-restoring-lost-partitions-on-your-windows-11108-pc/"><u>Step-by-Step Guide: Restoring Lost Partitions on Your Windows (11/10/8) PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-method-to-personalize-iphone-ringtones-for-2024/"><u>Step-By-Step Method to Personalize iPhone Ringtones for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-gratis-software-fur-hddssd-klonung-die-beste-auswahl/"><u>Top Gratis Software Für HDD/SSD Klonung: Die Beste Auswahl</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/transferer-rapidement-des-donnees-locales-vers-lordinateur-de-votre-partenaire-en-deux-facons-simples/"><u>Transférer Rapidement Des Données Locales Vers L'Ordinateur De Votre Partenaire en Deux Façons Simples</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/troubleshooting-the-asus-laptops-black-screen-with-simple-effective-solutions/"><u>Troubleshooting the Asus Laptop's Black Screen with Simple, Effective Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12plus-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12+ 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
