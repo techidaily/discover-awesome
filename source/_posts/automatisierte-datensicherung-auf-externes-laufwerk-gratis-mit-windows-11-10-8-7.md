@@ -1,7 +1,7 @@
 ---
 title: Automatisierte Datensicherung Auf Externes Laufwerk - Gratis Mit Windows 11, 10, 8, 7
-date: 2024-11-17T18:50:33.553Z
-updated: 2024-11-23T08:07:20.240Z
+date: 2024-11-29T16:55:14.067Z
+updated: 2024-12-01T16:11:06.488Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de655763795273378c61959dacb46a.jpg
@@ -25,7 +25,7 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
@@ -33,7 +33,7 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -51,10 +51,6 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -62,7 +58,11 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -80,10 +80,6 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -108,7 +104,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -146,10 +142,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -211,6 +203,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -265,6 +261,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -280,22 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-tips-to-counteract-obs-fullscreen-woes/"><u>[New] Tips to Counteract OBS Fullscreen Woes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>[Updated] 2024 Approved A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-crafting-news-end-credits-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting News End Credits A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1728506002482-apple-id/"><u>Apple IDにおける二要素認証のセットアップガイド</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-pathway-to-premium-gopro-accessories-for-2024/"><u>Beginner’s Pathway to Premium GoPro Accessories for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/comment-activer-automatiquement-la-sauvegarde-de-fichiers-via-une-commande-wbadmin-en-tlf/"><u>Comment Activer Automatiquement La Sauvegarde De Fichiers via Une Commande WBAdmin en TLF</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/ejecutar-modo-invitado-windows-10-y-11-con-eficacia-guia-completa/"><u>Ejecutar Modo Invitado Windows 10 Y 11 Con Eficacia: Guía Completa</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-use-norton-ghost-with-various-versions-of-windows-os-11-10-8-and-aturating-the-systems-performance-and-preventing-it-from-overheating-or-shutting-dow159/"><u>How to Use Norton Ghost with Various Versions of Windows OS (11, 10, 8 & Aturating the System's Performance and Preventing It From Overheating or Shutting Down Due to High Temperatures.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a56s-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A56s 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-your-airpods-windows-11-connectivity-challenges-the-latest-fixes/"><u>Overcome Your AirPods-Windows 11 Connectivity Challenges - The Latest Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-pova-5-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Pova 5</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-restoring-lost-partitions-on-your-windows-11108-pc/"><u>Step-by-Step Guide: Restoring Lost Partitions on Your Windows (11/10/8) PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-method-to-personalize-iphone-ringtones-for-2024/"><u>Step-By-Step Method to Personalize iPhone Ringtones for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-gratis-software-fur-hddssd-klonung-die-beste-auswahl/"><u>Top Gratis Software Für HDD/SSD Klonung: Die Beste Auswahl</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/transferer-rapidement-des-donnees-locales-vers-lordinateur-de-votre-partenaire-en-deux-facons-simples/"><u>Transférer Rapidement Des Données Locales Vers L'Ordinateur De Votre Partenaire en Deux Façons Simples</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/troubleshooting-the-asus-laptops-black-screen-with-simple-effective-solutions/"><u>Troubleshooting the Asus Laptop's Black Screen with Simple, Effective Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12plus-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12+ 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-tips-for-sharper-images-on-google-meet-calls/"><u>[New] In 2024, Top Tips for Sharper Images on Google Meet Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-adventure-aces-ranking-games-that-make-you-want-to-explore-for-2024/"><u>[Updated] Adventure Aces Ranking Games That Make You Want to Explore for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-creating-captivating-tiktok-outro-sequences/"><u>[Updated] Creating Captivating TikTok Outro Sequences</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/67962671-2024-approved-elevate-your-videos-with-complimentary-banners-here/"><u>2024 Approved Elevate Your Videos with Complimentary Banners, Here!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-the-elements-ranking-7-waterproof-cams/"><u>Conquer the Elements Ranking #7 Waterproof Cams</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effortless-ebook-upload-how-to-remotely-deliver-pdfs-and-documents-to-kindle/"><u>Effortless Ebook Upload: How to Remotely Deliver PDFs and Documents to Kindle</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effortless-method-for-transforming-kobo-book-files-into-portable-document-format-pdf/"><u>Effortless Method For Transforming Kobo Book Files Into Portable Document Format (PDF)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-content-youtube-thumbnail-artistry-on-mac-for-2024/"><u>Elevate Your Content YouTube Thumbnail Artistry on Mac for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/evaluating-the-kindle-voyage-top-benefits-vs-drawbacks-before-buying/"><u>Evaluating the Kindle Voyage – Top Benefits vs Drawbacks Before Buying</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/guide-to-extracting-drm-protected-content-from-specific-ebook-pages-eg-page-13/"><u>Guide to Extracting DRM Protected Content From Specific eBook Pages (E.g., Page 13)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-s17-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-convert-pdf-files-to-jpg-format-at-no-cost-using-mac-software/"><u>How to Convert PDF Files to JPG Format at No Cost Using Mac Software</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-move-your-itunes-secured-movie-files-onto-a-kindle-fire-or-kobo-ereader/"><u>How to Move Your iTunes Secured Movie Files Onto a Kindle Fire or Kobo eReader</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ignite-your-brands-success-with-proven-fire-branded-marketing-strategies/"><u>Ignite Your Brand's Success with Proven Fire-Branded Marketing Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-aspect-ratios-on-youtube-platforms/"><u>In 2024, The Essential Guide to ASPECT RATIOS on YOUTUBE Platforms</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/key-points-explored-a-deep-dive-into-understanding-kindles-whispersync-technology/"><u>Key Points Explored: A Deep Dive Into Understanding Kindle's Whispersync Technology</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mastering-the-use-of-calibre-a-guide-to-duplicating-ebook-data-and-settings/"><u>Mastering the Use of Calibre: A Guide to Duplicating Ebook Data and Settings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/simplify-mealtime-with-arf-pets-smart-auto-feeder-stress-free-nourishment-for-your-furry-friend/"><u>Simplify Mealtime with Arf Pets Smart Auto Feeder - Stress-Free Nourishment for Your Furry Friend</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
 
